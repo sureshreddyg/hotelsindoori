@@ -1,0 +1,223 @@
+{
+  "resolvedId": "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/index.vue?macro=true",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\r\n  <SectionsHome1Slider/>\r\n  <SectionsHome1About/>\r\n  <SectionsHome1Room/>\r\n  <SectionsHome1Services/>\r\n  <SectionsHome1Video/>\r\n  <SectionsHome1Features/>\r\n  <SectionsHome1Testimonial/>\r\n  <SectionsHome1Pricing/>\r\n  <SectionsHome1Team/>\r\n  <SectionsHome1Booking/>\r\n  <SectionsHome1News/>\r\n</template>",
+      "start": 1744980269077,
+      "end": 1744980271111,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980271111,
+      "end": 1744980271111,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980271111,
+      "end": 1744980271111,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1744980271111,
+      "end": 1744980271111,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1744980271111,
+      "end": 1744980271111,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1744980271111,
+      "end": 1744980271111,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1744980271111,
+      "end": 1744980271111,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1744980271111,
+      "end": 1744980271111,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "const _sfc_main = {}\nimport { resolveComponent as _resolveComponent, createVNode as _createVNode, Fragment as _Fragment, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_SectionsHome1Slider = _resolveComponent(\"SectionsHome1Slider\")\n  const _component_SectionsHome1About = _resolveComponent(\"SectionsHome1About\")\n  const _component_SectionsHome1Room = _resolveComponent(\"SectionsHome1Room\")\n  const _component_SectionsHome1Services = _resolveComponent(\"SectionsHome1Services\")\n  const _component_SectionsHome1Video = _resolveComponent(\"SectionsHome1Video\")\n  const _component_SectionsHome1Features = _resolveComponent(\"SectionsHome1Features\")\n  const _component_SectionsHome1Testimonial = _resolveComponent(\"SectionsHome1Testimonial\")\n  const _component_SectionsHome1Pricing = _resolveComponent(\"SectionsHome1Pricing\")\n  const _component_SectionsHome1Team = _resolveComponent(\"SectionsHome1Team\")\n  const _component_SectionsHome1Booking = _resolveComponent(\"SectionsHome1Booking\")\n  const _component_SectionsHome1News = _resolveComponent(\"SectionsHome1News\")\n\n  return (_openBlock(), _createElementBlock(_Fragment, null, [\n    _createVNode(_component_SectionsHome1Slider),\n    _createVNode(_component_SectionsHome1About),\n    _createVNode(_component_SectionsHome1Room),\n    _createVNode(_component_SectionsHome1Services),\n    _createVNode(_component_SectionsHome1Video),\n    _createVNode(_component_SectionsHome1Features),\n    _createVNode(_component_SectionsHome1Testimonial),\n    _createVNode(_component_SectionsHome1Pricing),\n    _createVNode(_component_SectionsHome1Team),\n    _createVNode(_component_SectionsHome1Booking),\n    _createVNode(_component_SectionsHome1News)\n  ], 64))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271111,
+      "end": 1744980271112,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "result": "\nconst __nuxt_page_meta = null\nexport default __nuxt_page_meta\n",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "post",
+      "sourcemaps": {
+        "version": 3,
+        "sources": [
+          ""
+        ],
+        "names": [],
+        "mappings": "AAAA;AAAA;AAAA;AAAA"
+      }
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1744980271112,
+      "end": 1744980271112,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1744980271112,
+      "end": 1744980271113,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1744980271113,
+      "end": 1744980271113,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1744980271113,
+      "end": 1744980271113,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1744980271113,
+      "end": 1744980271113,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1744980271113,
+      "end": 1744980271113,
+      "order": "normal"
+    }
+  ]
+}

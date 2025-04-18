@@ -44,7 +44,7 @@
             <div class="contact-info-box">
               <i class="icon lnr-icon-phone-handset"></i>
               <span class="title">Call Now</span>
-              <NuxtLink to="/tel:+92880098670">+92 (8800) - 98670</NuxtLink>
+              <NuxtLink to="tel:+92880098670">+92 (8800) - 98670</NuxtLink>
             </div>
           </li>
           <li>

@@ -1,0 +1,1 @@
+import"./entry.CA4QVHQQ.js";const o=""+globalThis.__publicAssetsURL("images/resource/room-1.jpg"),r=""+globalThis.__publicAssetsURL("images/resource/room-2.jpg"),e=""+globalThis.__publicAssetsURL("images/resource/room-4.jpg");export{o as _,r as a,e as b};

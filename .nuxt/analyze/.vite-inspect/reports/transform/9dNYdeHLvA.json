@@ -1,0 +1,215 @@
+{
+  "resolvedId": "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/components/sections/home1/Team.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\r\n  <section class=\"team-section\">\r\n    <div class=\"auto-container\">\r\n      <div class=\"sec-title text-center wow fadeInUp\">\r\n        <span class=\"sub-title\">Hoexr Hotel team</span>\r\n        <h2>Expert Team Persons</h2>\r\n      </div>\r\n      <div class=\"row\">\r\n        <!-- Team block -->\r\n        <div class=\"team-block col-lg-3 col-sm-6\">\r\n          <div class=\"inner-box wow fadeInLeft\">\r\n            <div class=\"image-box\">\r\n              <figure class=\"image overlay-anim\"><NuxtLink to=\"page-team-details\"><img src=\"/images/resource/team-1.jpg\" alt=\"\"></NuxtLink></figure>\r\n              <div class=\"info-box\">\r\n                <span class=\"designation\">Event Platnner</span>\r\n                <h4 class=\"name\"><NuxtLink to=\"page-team-details\">Michael Dean</NuxtLink></h4>\r\n                <div class=\"social-links\">\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-facebook\"></i></NuxtLink>\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-twitter\"></i></NuxtLink>\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-linkedin\"></i></NuxtLink>\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-youtube\"></i></NuxtLink>\r\n                </div>\r\n              </div>\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <!-- Team block -->\r\n        <div class=\"team-block col-lg-3 col-sm-6\">\r\n          <div class=\"inner-box wow fadeInLeft\" data-wow-delay=\"200ms\">\r\n            <div class=\"image-box\">\r\n              <figure class=\"image overlay-anim\"><NuxtLink to=\"page-team-details\"><img src=\"/images/resource/team-2.jpg\" alt=\"\"></NuxtLink></figure>\r\n              <div class=\"info-box\">\r\n                <span class=\"designation\">Kitchen Manager</span>\r\n                <h4 class=\"name\"><NuxtLink to=\"page-team-details\">Frank Burton</NuxtLink></h4>\r\n                <div class=\"social-links\">\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-facebook\"></i></NuxtLink>\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-twitter\"></i></NuxtLink>\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-linkedin\"></i></NuxtLink>\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-youtube\"></i></NuxtLink>\r\n                </div>\r\n              </div>\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <!-- Team block -->\r\n        <div class=\"team-block col-lg-3 col-sm-6\">\r\n          <div class=\"inner-box wow fadeInLeft\" data-wow-delay=\"300ms\">\r\n            <div class=\"image-box\">\r\n              <figure class=\"image overlay-anim\"><NuxtLink to=\"page-team-details\"><img src=\"/images/resource/team-3.jpg\" alt=\"\"></NuxtLink></figure>\r\n              <div class=\"info-box\">\r\n                <span class=\"designation\">Hotel Manager</span>\r\n                <h4 class=\"name\"><NuxtLink to=\"page-team-details\">Mya Mullins</NuxtLink></h4>\r\n                <div class=\"social-links\">\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-facebook\"></i></NuxtLink>\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-twitter\"></i></NuxtLink>\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-linkedin\"></i></NuxtLink>\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-youtube\"></i></NuxtLink>\r\n                </div>\r\n              </div>\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <!-- Team block -->\r\n        <div class=\"team-block col-lg-3 col-sm-6\">\r\n          <div class=\"inner-box wow fadeInLeft\" data-wow-delay=\"400ms\">\r\n            <div class=\"image-box\">\r\n              <figure class=\"image overlay-anim\"><NuxtLink to=\"page-team-details\"><img src=\"/images/resource/team-4.jpg\" alt=\"\"></NuxtLink></figure>\r\n              <div class=\"info-box\">\r\n                <span class=\"designation\">Room Service</span>\r\n                <h4 class=\"name\"><NuxtLink to=\"page-team-details\">Ralph Nguyen</NuxtLink></h4>\r\n                <div class=\"social-links\">\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-facebook\"></i></NuxtLink>\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-twitter\"></i></NuxtLink>\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-linkedin\"></i></NuxtLink>\r\n                  <NuxtLink to=\"#\"><i class=\"fab fa-youtube\"></i></NuxtLink>\r\n                </div>\r\n              </div>\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n</template>",
+      "start": 1744980271351,
+      "end": 1744980271426,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980271426,
+      "end": 1744980271426,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980271426,
+      "end": 1744980271426,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1744980271426,
+      "end": 1744980271426,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1744980271426,
+      "end": 1744980271426,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1744980271426,
+      "end": 1744980271426,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1744980271426,
+      "end": 1744980271426,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1744980271426,
+      "end": 1744980271426,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "const _sfc_main = {}\nimport { createElementVNode as _createElementVNode, resolveComponent as _resolveComponent, withCtx as _withCtx, createVNode as _createVNode, createTextVNode as _createTextVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\nimport _imports_0 from '/images/resource/team-1.jpg'\nimport _imports_1 from '/images/resource/team-2.jpg'\nimport _imports_2 from '/images/resource/team-3.jpg'\nimport _imports_3 from '/images/resource/team-4.jpg'\n\n\nconst _hoisted_1 = { class: \"team-section\" }\nconst _hoisted_2 = { class: \"auto-container\" }\nconst _hoisted_3 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title text-center wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title\" }, \"Hoexr Hotel team\"),\n  /*#__PURE__*/_createElementVNode(\"h2\", null, \"Expert Team Persons\")\n], -1)\nconst _hoisted_4 = { class: \"row\" }\nconst _hoisted_5 = { class: \"team-block col-lg-3 col-sm-6\" }\nconst _hoisted_6 = { class: \"inner-box wow fadeInLeft\" }\nconst _hoisted_7 = { class: \"image-box\" }\nconst _hoisted_8 = { class: \"image overlay-anim\" }\nconst _hoisted_9 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_0,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_10 = { class: \"info-box\" }\nconst _hoisted_11 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Event Platnner\", -1)\nconst _hoisted_12 = { class: \"name\" }\nconst _hoisted_13 = { class: \"social-links\" }\nconst _hoisted_14 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-facebook\" }, null, -1)\nconst _hoisted_15 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-twitter\" }, null, -1)\nconst _hoisted_16 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-linkedin\" }, null, -1)\nconst _hoisted_17 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-youtube\" }, null, -1)\nconst _hoisted_18 = { class: \"team-block col-lg-3 col-sm-6\" }\nconst _hoisted_19 = {\n  class: \"inner-box wow fadeInLeft\",\n  \"data-wow-delay\": \"200ms\"\n}\nconst _hoisted_20 = { class: \"image-box\" }\nconst _hoisted_21 = { class: \"image overlay-anim\" }\nconst _hoisted_22 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_1,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_23 = { class: \"info-box\" }\nconst _hoisted_24 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Kitchen Manager\", -1)\nconst _hoisted_25 = { class: \"name\" }\nconst _hoisted_26 = { class: \"social-links\" }\nconst _hoisted_27 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-facebook\" }, null, -1)\nconst _hoisted_28 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-twitter\" }, null, -1)\nconst _hoisted_29 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-linkedin\" }, null, -1)\nconst _hoisted_30 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-youtube\" }, null, -1)\nconst _hoisted_31 = { class: \"team-block col-lg-3 col-sm-6\" }\nconst _hoisted_32 = {\n  class: \"inner-box wow fadeInLeft\",\n  \"data-wow-delay\": \"300ms\"\n}\nconst _hoisted_33 = { class: \"image-box\" }\nconst _hoisted_34 = { class: \"image overlay-anim\" }\nconst _hoisted_35 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_2,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_36 = { class: \"info-box\" }\nconst _hoisted_37 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Hotel Manager\", -1)\nconst _hoisted_38 = { class: \"name\" }\nconst _hoisted_39 = { class: \"social-links\" }\nconst _hoisted_40 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-facebook\" }, null, -1)\nconst _hoisted_41 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-twitter\" }, null, -1)\nconst _hoisted_42 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-linkedin\" }, null, -1)\nconst _hoisted_43 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-youtube\" }, null, -1)\nconst _hoisted_44 = { class: \"team-block col-lg-3 col-sm-6\" }\nconst _hoisted_45 = {\n  class: \"inner-box wow fadeInLeft\",\n  \"data-wow-delay\": \"400ms\"\n}\nconst _hoisted_46 = { class: \"image-box\" }\nconst _hoisted_47 = { class: \"image overlay-anim\" }\nconst _hoisted_48 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_3,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_49 = { class: \"info-box\" }\nconst _hoisted_50 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Room Service\", -1)\nconst _hoisted_51 = { class: \"name\" }\nconst _hoisted_52 = { class: \"social-links\" }\nconst _hoisted_53 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-facebook\" }, null, -1)\nconst _hoisted_54 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-twitter\" }, null, -1)\nconst _hoisted_55 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-linkedin\" }, null, -1)\nconst _hoisted_56 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-youtube\" }, null, -1)\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_NuxtLink = _resolveComponent(\"NuxtLink\")\n\n  return (_openBlock(), _createElementBlock(\"section\", _hoisted_1, [\n    _createElementVNode(\"div\", _hoisted_2, [\n      _hoisted_3,\n      _createElementVNode(\"div\", _hoisted_4, [\n        _createElementVNode(\"div\", _hoisted_5, [\n          _createElementVNode(\"div\", _hoisted_6, [\n            _createElementVNode(\"div\", _hoisted_7, [\n              _createElementVNode(\"figure\", _hoisted_8, [\n                _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                  default: _withCtx(() => [\n                    _hoisted_9\n                  ]),\n                  _: 1\n                })\n              ]),\n              _createElementVNode(\"div\", _hoisted_10, [\n                _hoisted_11,\n                _createElementVNode(\"h4\", _hoisted_12, [\n                  _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                    default: _withCtx(() => [\n                      _createTextVNode(\"Michael Dean\")\n                    ]),\n                    _: 1\n                  })\n                ]),\n                _createElementVNode(\"div\", _hoisted_13, [\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_14\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_15\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_16\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_17\n                    ]),\n                    _: 1\n                  })\n                ])\n              ])\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_18, [\n          _createElementVNode(\"div\", _hoisted_19, [\n            _createElementVNode(\"div\", _hoisted_20, [\n              _createElementVNode(\"figure\", _hoisted_21, [\n                _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                  default: _withCtx(() => [\n                    _hoisted_22\n                  ]),\n                  _: 1\n                })\n              ]),\n              _createElementVNode(\"div\", _hoisted_23, [\n                _hoisted_24,\n                _createElementVNode(\"h4\", _hoisted_25, [\n                  _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                    default: _withCtx(() => [\n                      _createTextVNode(\"Frank Burton\")\n                    ]),\n                    _: 1\n                  })\n                ]),\n                _createElementVNode(\"div\", _hoisted_26, [\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_27\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_28\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_29\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_30\n                    ]),\n                    _: 1\n                  })\n                ])\n              ])\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_31, [\n          _createElementVNode(\"div\", _hoisted_32, [\n            _createElementVNode(\"div\", _hoisted_33, [\n              _createElementVNode(\"figure\", _hoisted_34, [\n                _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                  default: _withCtx(() => [\n                    _hoisted_35\n                  ]),\n                  _: 1\n                })\n              ]),\n              _createElementVNode(\"div\", _hoisted_36, [\n                _hoisted_37,\n                _createElementVNode(\"h4\", _hoisted_38, [\n                  _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                    default: _withCtx(() => [\n                      _createTextVNode(\"Mya Mullins\")\n                    ]),\n                    _: 1\n                  })\n                ]),\n                _createElementVNode(\"div\", _hoisted_39, [\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_40\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_41\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_42\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_43\n                    ]),\n                    _: 1\n                  })\n                ])\n              ])\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_44, [\n          _createElementVNode(\"div\", _hoisted_45, [\n            _createElementVNode(\"div\", _hoisted_46, [\n              _createElementVNode(\"figure\", _hoisted_47, [\n                _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                  default: _withCtx(() => [\n                    _hoisted_48\n                  ]),\n                  _: 1\n                })\n              ]),\n              _createElementVNode(\"div\", _hoisted_49, [\n                _hoisted_50,\n                _createElementVNode(\"h4\", _hoisted_51, [\n                  _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                    default: _withCtx(() => [\n                      _createTextVNode(\"Ralph Nguyen\")\n                    ]),\n                    _: 1\n                  })\n                ]),\n                _createElementVNode(\"div\", _hoisted_52, [\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_53\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_54\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_55\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_56\n                    ]),\n                    _: 1\n                  })\n                ])\n              ])\n            ])\n          ])\n        ])\n      ])\n    ])\n  ]))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271426,
+      "end": 1744980271427,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980271427,
+      "end": 1744980271427,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980271427,
+      "end": 1744980271428,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980271428,
+      "end": 1744980271428,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1744980271428,
+      "end": 1744980271428,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1744980271428,
+      "end": 1744980271428,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1744980271428,
+      "end": 1744980271428,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "result": "import { default as __nuxt_component_0 } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/node_modules/nuxt/dist/app/components/nuxt-link\";\nconst _sfc_main = {}\nimport { createElementVNode as _createElementVNode, resolveComponent as _resolveComponent, withCtx as _withCtx, createVNode as _createVNode, createTextVNode as _createTextVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\nimport _imports_0 from '/images/resource/team-1.jpg'\nimport _imports_1 from '/images/resource/team-2.jpg'\nimport _imports_2 from '/images/resource/team-3.jpg'\nimport _imports_3 from '/images/resource/team-4.jpg'\n\n\nconst _hoisted_1 = { class: \"team-section\" }\nconst _hoisted_2 = { class: \"auto-container\" }\nconst _hoisted_3 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title text-center wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title\" }, \"Hoexr Hotel team\"),\n  /*#__PURE__*/_createElementVNode(\"h2\", null, \"Expert Team Persons\")\n], -1)\nconst _hoisted_4 = { class: \"row\" }\nconst _hoisted_5 = { class: \"team-block col-lg-3 col-sm-6\" }\nconst _hoisted_6 = { class: \"inner-box wow fadeInLeft\" }\nconst _hoisted_7 = { class: \"image-box\" }\nconst _hoisted_8 = { class: \"image overlay-anim\" }\nconst _hoisted_9 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_0,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_10 = { class: \"info-box\" }\nconst _hoisted_11 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Event Platnner\", -1)\nconst _hoisted_12 = { class: \"name\" }\nconst _hoisted_13 = { class: \"social-links\" }\nconst _hoisted_14 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-facebook\" }, null, -1)\nconst _hoisted_15 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-twitter\" }, null, -1)\nconst _hoisted_16 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-linkedin\" }, null, -1)\nconst _hoisted_17 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-youtube\" }, null, -1)\nconst _hoisted_18 = { class: \"team-block col-lg-3 col-sm-6\" }\nconst _hoisted_19 = {\n  class: \"inner-box wow fadeInLeft\",\n  \"data-wow-delay\": \"200ms\"\n}\nconst _hoisted_20 = { class: \"image-box\" }\nconst _hoisted_21 = { class: \"image overlay-anim\" }\nconst _hoisted_22 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_1,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_23 = { class: \"info-box\" }\nconst _hoisted_24 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Kitchen Manager\", -1)\nconst _hoisted_25 = { class: \"name\" }\nconst _hoisted_26 = { class: \"social-links\" }\nconst _hoisted_27 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-facebook\" }, null, -1)\nconst _hoisted_28 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-twitter\" }, null, -1)\nconst _hoisted_29 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-linkedin\" }, null, -1)\nconst _hoisted_30 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-youtube\" }, null, -1)\nconst _hoisted_31 = { class: \"team-block col-lg-3 col-sm-6\" }\nconst _hoisted_32 = {\n  class: \"inner-box wow fadeInLeft\",\n  \"data-wow-delay\": \"300ms\"\n}\nconst _hoisted_33 = { class: \"image-box\" }\nconst _hoisted_34 = { class: \"image overlay-anim\" }\nconst _hoisted_35 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_2,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_36 = { class: \"info-box\" }\nconst _hoisted_37 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Hotel Manager\", -1)\nconst _hoisted_38 = { class: \"name\" }\nconst _hoisted_39 = { class: \"social-links\" }\nconst _hoisted_40 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-facebook\" }, null, -1)\nconst _hoisted_41 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-twitter\" }, null, -1)\nconst _hoisted_42 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-linkedin\" }, null, -1)\nconst _hoisted_43 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-youtube\" }, null, -1)\nconst _hoisted_44 = { class: \"team-block col-lg-3 col-sm-6\" }\nconst _hoisted_45 = {\n  class: \"inner-box wow fadeInLeft\",\n  \"data-wow-delay\": \"400ms\"\n}\nconst _hoisted_46 = { class: \"image-box\" }\nconst _hoisted_47 = { class: \"image overlay-anim\" }\nconst _hoisted_48 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_3,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_49 = { class: \"info-box\" }\nconst _hoisted_50 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Room Service\", -1)\nconst _hoisted_51 = { class: \"name\" }\nconst _hoisted_52 = { class: \"social-links\" }\nconst _hoisted_53 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-facebook\" }, null, -1)\nconst _hoisted_54 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-twitter\" }, null, -1)\nconst _hoisted_55 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-linkedin\" }, null, -1)\nconst _hoisted_56 = /*#__PURE__*/_createElementVNode(\"i\", { class: \"fab fa-youtube\" }, null, -1)\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_NuxtLink = __nuxt_component_0\n\n  return (_openBlock(), _createElementBlock(\"section\", _hoisted_1, [\n    _createElementVNode(\"div\", _hoisted_2, [\n      _hoisted_3,\n      _createElementVNode(\"div\", _hoisted_4, [\n        _createElementVNode(\"div\", _hoisted_5, [\n          _createElementVNode(\"div\", _hoisted_6, [\n            _createElementVNode(\"div\", _hoisted_7, [\n              _createElementVNode(\"figure\", _hoisted_8, [\n                _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                  default: _withCtx(() => [\n                    _hoisted_9\n                  ]),\n                  _: 1\n                })\n              ]),\n              _createElementVNode(\"div\", _hoisted_10, [\n                _hoisted_11,\n                _createElementVNode(\"h4\", _hoisted_12, [\n                  _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                    default: _withCtx(() => [\n                      _createTextVNode(\"Michael Dean\")\n                    ]),\n                    _: 1\n                  })\n                ]),\n                _createElementVNode(\"div\", _hoisted_13, [\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_14\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_15\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_16\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_17\n                    ]),\n                    _: 1\n                  })\n                ])\n              ])\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_18, [\n          _createElementVNode(\"div\", _hoisted_19, [\n            _createElementVNode(\"div\", _hoisted_20, [\n              _createElementVNode(\"figure\", _hoisted_21, [\n                _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                  default: _withCtx(() => [\n                    _hoisted_22\n                  ]),\n                  _: 1\n                })\n              ]),\n              _createElementVNode(\"div\", _hoisted_23, [\n                _hoisted_24,\n                _createElementVNode(\"h4\", _hoisted_25, [\n                  _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                    default: _withCtx(() => [\n                      _createTextVNode(\"Frank Burton\")\n                    ]),\n                    _: 1\n                  })\n                ]),\n                _createElementVNode(\"div\", _hoisted_26, [\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_27\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_28\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_29\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_30\n                    ]),\n                    _: 1\n                  })\n                ])\n              ])\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_31, [\n          _createElementVNode(\"div\", _hoisted_32, [\n            _createElementVNode(\"div\", _hoisted_33, [\n              _createElementVNode(\"figure\", _hoisted_34, [\n                _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                  default: _withCtx(() => [\n                    _hoisted_35\n                  ]),\n                  _: 1\n                })\n              ]),\n              _createElementVNode(\"div\", _hoisted_36, [\n                _hoisted_37,\n                _createElementVNode(\"h4\", _hoisted_38, [\n                  _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                    default: _withCtx(() => [\n                      _createTextVNode(\"Mya Mullins\")\n                    ]),\n                    _: 1\n                  })\n                ]),\n                _createElementVNode(\"div\", _hoisted_39, [\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_40\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_41\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_42\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_43\n                    ]),\n                    _: 1\n                  })\n                ])\n              ])\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_44, [\n          _createElementVNode(\"div\", _hoisted_45, [\n            _createElementVNode(\"div\", _hoisted_46, [\n              _createElementVNode(\"figure\", _hoisted_47, [\n                _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                  default: _withCtx(() => [\n                    _hoisted_48\n                  ]),\n                  _: 1\n                })\n              ]),\n              _createElementVNode(\"div\", _hoisted_49, [\n                _hoisted_50,\n                _createElementVNode(\"h4\", _hoisted_51, [\n                  _createVNode(_component_NuxtLink, { to: \"page-team-details\" }, {\n                    default: _withCtx(() => [\n                      _createTextVNode(\"Ralph Nguyen\")\n                    ]),\n                    _: 1\n                  })\n                ]),\n                _createElementVNode(\"div\", _hoisted_52, [\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_53\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_54\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_55\n                    ]),\n                    _: 1\n                  }),\n                  _createVNode(_component_NuxtLink, { to: \"#\" }, {\n                    default: _withCtx(() => [\n                      _hoisted_56\n                    ]),\n                    _: 1\n                  })\n                ])\n              ])\n            ])\n          ])\n        ])\n      ])\n    ])\n  ]))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271428,
+      "end": 1744980271428,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1744980271428,
+      "end": 1744980271428,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1744980271428,
+      "end": 1744980271429,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1744980271429,
+      "end": 1744980271429,
+      "order": "normal"
+    }
+  ]
+}

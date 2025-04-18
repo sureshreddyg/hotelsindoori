@@ -1,0 +1,214 @@
+{
+  "resolvedId": "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/components/sections/innerpages/Testimonial.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\r\n  <!-- client-section -->\r\n  <section class=\"client-section pb-80\">\r\n    <div class=\"bg bg-image\" style=\"background-image: url(/images/background/3.jpg);\"></div>\r\n    <div class=\"auto-container\">\r\n      <div class=\"sec-title light text-center\"> <span class=\"sub-title\">What says for customer</span>\r\n        <h2>What Client's Say?</h2>\r\n      </div>\r\n      <div class=\"row\"> \r\n        <!-- client-block -->\r\n        <div class=\"client-block col-lg-4 col-sm-6\">\r\n          <div class=\"inner-box wow fadeInLeft\">\r\n            <h4 class=\"title\">Jina Nillson</h4>\r\n            <span>Founder of Webflex</span>\r\n            <div class=\"image-box\">\r\n              <figure class=\"image wow fadeInUp\"><img src=\"/images/resource/client.jpg\" alt=\"\"></figure>\r\n              <i class=\"icon fa fa-circle-check\"></i>\r\n            </div>\r\n            <div class=\"text\">Upon they're seasons green day beast<br>without form man be firmament years shall<br>the appear moveth signs had.</div>\r\n          </div>\r\n        </div>\r\n        <!-- client-block -->\r\n        <div class=\"client-block col-lg-4 col-sm-6\">\r\n          <div class=\"inner-box wow fadeInLeft\" data-wow-delay=\"200ms\">\r\n            <h4 class=\"title\">Donald Browfish</h4>\r\n            <span>Founder of Webflex</span>\r\n            <div class=\"image-box\">\r\n              <figure class=\"image wow fadeInUp\"><img src=\"/images/resource/client-2.jpg\" alt=\"\"></figure>\r\n              <i class=\"icon fa fa-circle-check\"></i>\r\n            </div>\r\n            <div class=\"text\">Upon they're seasons green day beast<br>without form man be firmament years shall<br>the appear moveth signs had.</div>\r\n          </div>\r\n        </div>\r\n        <!-- client-block -->\r\n        <div class=\"client-block col-lg-4 col-sm-6\">\r\n          <div class=\"inner-box wow fadeInLeft\" data-wow-delay=\"300ms\">\r\n            <h4 class=\"title\">Robotor Doses</h4>\r\n            <span>Founder of Webflex</span>\r\n            <div class=\"image-box\">\r\n              <figure class=\"image wow fadeInUp\"><img src=\"/images/resource/client-3.jpg\" alt=\"\"></figure>\r\n              <i class=\"icon fa fa-circle-check\"></i>\r\n            </div>\r\n            <div class=\"text\">Upon they're seasons green day beast<br>without form man be firmament years shall<br>the appear moveth signs had.</div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n  <!-- End client-section -->\r\n</template>",
+      "start": 1744980271498,
+      "end": 1744980272001,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980272001,
+      "end": 1744980272001,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980272001,
+      "end": 1744980272001,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1744980272001,
+      "end": 1744980272001,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1744980272001,
+      "end": 1744980272001,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1744980272001,
+      "end": 1744980272001,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1744980272001,
+      "end": 1744980272001,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1744980272001,
+      "end": 1744980272001,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "const _sfc_main = {}\nimport { createElementVNode as _createElementVNode, createTextVNode as _createTextVNode, createStaticVNode as _createStaticVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\nimport _imports_0 from '/images/resource/client.jpg'\nimport _imports_1 from '/images/resource/client-2.jpg'\nimport _imports_2 from '/images/resource/client-3.jpg'\n\n\nconst _hoisted_1 = { class: \"client-section pb-80\" }\nconst _hoisted_2 = /*#__PURE__*/_createStaticVNode(\"<div class=\\\"bg bg-image\\\" style=\\\"background-image:url(/images/background/3.jpg);\\\"></div><div class=\\\"auto-container\\\"><div class=\\\"sec-title light text-center\\\"><span class=\\\"sub-title\\\">What says for customer</span><h2>What Client&#39;s Say?</h2></div><div class=\\\"row\\\"><div class=\\\"client-block col-lg-4 col-sm-6\\\"><div class=\\\"inner-box wow fadeInLeft\\\"><h4 class=\\\"title\\\">Jina Nillson</h4><span>Founder of Webflex</span><div class=\\\"image-box\\\"><figure class=\\\"image wow fadeInUp\\\"><img src=\\\"\" + _imports_0 + \"\\\" alt=\\\"\\\"></figure><i class=\\\"icon fa fa-circle-check\\\"></i></div><div class=\\\"text\\\">Upon they&#39;re seasons green day beast<br>without form man be firmament years shall<br>the appear moveth signs had.</div></div></div><div class=\\\"client-block col-lg-4 col-sm-6\\\"><div class=\\\"inner-box wow fadeInLeft\\\" data-wow-delay=\\\"200ms\\\"><h4 class=\\\"title\\\">Donald Browfish</h4><span>Founder of Webflex</span><div class=\\\"image-box\\\"><figure class=\\\"image wow fadeInUp\\\"><img src=\\\"\" + _imports_1 + \"\\\" alt=\\\"\\\"></figure><i class=\\\"icon fa fa-circle-check\\\"></i></div><div class=\\\"text\\\">Upon they&#39;re seasons green day beast<br>without form man be firmament years shall<br>the appear moveth signs had.</div></div></div><div class=\\\"client-block col-lg-4 col-sm-6\\\"><div class=\\\"inner-box wow fadeInLeft\\\" data-wow-delay=\\\"300ms\\\"><h4 class=\\\"title\\\">Robotor Doses</h4><span>Founder of Webflex</span><div class=\\\"image-box\\\"><figure class=\\\"image wow fadeInUp\\\"><img src=\\\"\" + _imports_2 + \"\\\" alt=\\\"\\\"></figure><i class=\\\"icon fa fa-circle-check\\\"></i></div><div class=\\\"text\\\">Upon they&#39;re seasons green day beast<br>without form man be firmament years shall<br>the appear moveth signs had.</div></div></div></div></div>\", 2)\nconst _hoisted_4 = [\n  _hoisted_2\n]\n\nfunction _sfc_render(_ctx, _cache) {\n  return (_openBlock(), _createElementBlock(\"section\", _hoisted_1, _hoisted_4))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980272001,
+      "end": 1744980272007,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980272007,
+      "end": 1744980272007,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980272007,
+      "end": 1744980272008,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980272008,
+      "end": 1744980272008,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1744980272008,
+      "end": 1744980272008,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1744980272008,
+      "end": 1744980272008,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1744980272008,
+      "end": 1744980272008,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1744980272008,
+      "end": 1744980272008,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1744980272008,
+      "end": 1744980272008,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1744980272008,
+      "end": 1744980272008,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1744980272008,
+      "end": 1744980272008,
+      "order": "normal"
+    }
+  ]
+}

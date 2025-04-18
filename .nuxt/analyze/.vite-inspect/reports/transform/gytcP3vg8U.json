@@ -1,0 +1,215 @@
+{
+  "resolvedId": "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/components/sections/home2/About.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\r\n  <!-- About Section -->\r\n  <section class=\"about-section-two\">\r\n    <div class=\"auto-container\">\r\n      <div class=\"row\">\r\n        <!-- Content Column -->\r\n        <div class=\"content-column col-lg-7 wow fadeInRight\" data-wow-delay=\"600ms\">\r\n          <div class=\"inner-column\">\r\n            <div class=\"sec-title\">\r\n              <span class=\"sub-title\">Hoexr Luxury Hotel</span>\r\n              <h2>We Provide Outdoor <br>Activities To All Visitors</h2>\r\n              <div class=\"text\">San Francisco has hills with views, the coast, excellent food & <br>has been voted the happiest, healthiest and fittest city in the <br>States many times.</div>\r\n            </div>\r\n            <div class=\"outer-box\">\r\n              <div class=\"info-block\">\r\n                <div class=\"inner\">\r\n                  <div class=\"icon-box\"><i class=\"flaticon-light\"></i></div>\r\n                  <h4 class=\"title\">The Best <br>Lighting</h4>\r\n                </div>\r\n              </div>\r\n              <div class=\"info-block\">\r\n                <div class=\"inner\">\r\n                  <div class=\"icon-box\"><i class=\"flaticon-pool\"></i></div>\r\n                  <h4 class=\"title\">The Best <br>Swiming</h4>\r\n                </div>\r\n              </div>\r\n            </div>\r\n            <ul class=\"list-style-two\">\r\n              <li><i class=\"icon fa fa-circle-check\"></i>It is a long fact that a reader will be distracted by the readable</li>\r\n              <li><i class=\"icon fa fa-circle-check\"></i>Lorem Ipsum is simply dummy of the printing and industry</li>\r\n              <li><i class=\"icon fa fa-circle-check\"></i>There are many variations of Lorem Ipsum majority</li>\r\n            </ul>\r\n            <div class=\"btn-box\">\r\n              <NuxtLink to=\"page-about\" class=\"theme-btn btn-style-one\"><span class=\"btn-title\">Discover More</span></NuxtLink>\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <!-- Image Column -->\r\n        <div class=\"image-column col-lg-5\">\r\n          <div class=\"inner-column wow fadeInLeft\">\r\n            <figure class=\"image-1 overlay-anim wow fadeInUp\"><img src=\"/images/resource/about2-1.jpg\" alt=\"\"></figure>\r\n            <figure class=\"image-2 overlay-anim wow fadeInLeft\"><img src=\"/images/resource/about2-2.jpg\" alt=\"\"></figure>\r\n            <div class=\"exp-box bounce-y\">\r\n              <figure class=\" overlay-anim wow fadeInLeft\"><img src=\"/images/resource/exp-icon.png\" alt=\"\"></figure>\r\n              <h4 class=\"title\">Luxury Room</h4>\r\n              <div class=\"text\">Donec in quis the asd <br>pellentesque velit. Donec id <br>velit arcu posuere blane.</div>\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n  <!--Emd About Section -->\r\n</template>",
+      "start": 1744980271329,
+      "end": 1744980271360,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980271360,
+      "end": 1744980271360,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980271360,
+      "end": 1744980271360,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1744980271360,
+      "end": 1744980271360,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1744980271360,
+      "end": 1744980271360,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1744980271360,
+      "end": 1744980271360,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1744980271360,
+      "end": 1744980271360,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1744980271360,
+      "end": 1744980271360,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "const _sfc_main = {}\nimport { createElementVNode as _createElementVNode, createTextVNode as _createTextVNode, resolveComponent as _resolveComponent, withCtx as _withCtx, createVNode as _createVNode, createStaticVNode as _createStaticVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\nimport _imports_0 from '/images/resource/about2-1.jpg'\nimport _imports_1 from '/images/resource/about2-2.jpg'\nimport _imports_2 from '/images/resource/exp-icon.png'\n\n\nconst _hoisted_1 = { class: \"about-section-two\" }\nconst _hoisted_2 = { class: \"auto-container\" }\nconst _hoisted_3 = { class: \"row\" }\nconst _hoisted_4 = {\n  class: \"content-column col-lg-7 wow fadeInRight\",\n  \"data-wow-delay\": \"600ms\"\n}\nconst _hoisted_5 = { class: \"inner-column\" }\nconst _hoisted_6 = /*#__PURE__*/_createStaticVNode(\"<div class=\\\"sec-title\\\"><span class=\\\"sub-title\\\">Hoexr Luxury Hotel</span><h2>We Provide Outdoor <br>Activities To All Visitors</h2><div class=\\\"text\\\">San Francisco has hills with views, the coast, excellent food &amp; <br>has been voted the happiest, healthiest and fittest city in the <br>States many times.</div></div><div class=\\\"outer-box\\\"><div class=\\\"info-block\\\"><div class=\\\"inner\\\"><div class=\\\"icon-box\\\"><i class=\\\"flaticon-light\\\"></i></div><h4 class=\\\"title\\\">The Best <br>Lighting</h4></div></div><div class=\\\"info-block\\\"><div class=\\\"inner\\\"><div class=\\\"icon-box\\\"><i class=\\\"flaticon-pool\\\"></i></div><h4 class=\\\"title\\\">The Best <br>Swiming</h4></div></div></div><ul class=\\\"list-style-two\\\"><li><i class=\\\"icon fa fa-circle-check\\\"></i>It is a long fact that a reader will be distracted by the readable</li><li><i class=\\\"icon fa fa-circle-check\\\"></i>Lorem Ipsum is simply dummy of the printing and industry</li><li><i class=\\\"icon fa fa-circle-check\\\"></i>There are many variations of Lorem Ipsum majority</li></ul>\", 3)\nconst _hoisted_9 = { class: \"btn-box\" }\nconst _hoisted_10 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"btn-title\" }, \"Discover More\", -1)\nconst _hoisted_11 = /*#__PURE__*/_createStaticVNode(\"<div class=\\\"image-column col-lg-5\\\"><div class=\\\"inner-column wow fadeInLeft\\\"><figure class=\\\"image-1 overlay-anim wow fadeInUp\\\"><img src=\\\"\" + _imports_0 + \"\\\" alt=\\\"\\\"></figure><figure class=\\\"image-2 overlay-anim wow fadeInLeft\\\"><img src=\\\"\" + _imports_1 + \"\\\" alt=\\\"\\\"></figure><div class=\\\"exp-box bounce-y\\\"><figure class=\\\"overlay-anim wow fadeInLeft\\\"><img src=\\\"\" + _imports_2 + \"\\\" alt=\\\"\\\"></figure><h4 class=\\\"title\\\">Luxury Room</h4><div class=\\\"text\\\">Donec in quis the asd <br>pellentesque velit. Donec id <br>velit arcu posuere blane.</div></div></div></div>\", 1)\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_NuxtLink = _resolveComponent(\"NuxtLink\")\n\n  return (_openBlock(), _createElementBlock(\"section\", _hoisted_1, [\n    _createElementVNode(\"div\", _hoisted_2, [\n      _createElementVNode(\"div\", _hoisted_3, [\n        _createElementVNode(\"div\", _hoisted_4, [\n          _createElementVNode(\"div\", _hoisted_5, [\n            _hoisted_6,\n            _createElementVNode(\"div\", _hoisted_9, [\n              _createVNode(_component_NuxtLink, {\n                to: \"page-about\",\n                class: \"theme-btn btn-style-one\"\n              }, {\n                default: _withCtx(() => [\n                  _hoisted_10\n                ]),\n                _: 1\n              })\n            ])\n          ])\n        ]),\n        _hoisted_11\n      ])\n    ])\n  ]))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271360,
+      "end": 1744980271361,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980271361,
+      "end": 1744980271361,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980271361,
+      "end": 1744980271362,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980271362,
+      "end": 1744980271362,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1744980271362,
+      "end": 1744980271362,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1744980271362,
+      "end": 1744980271362,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1744980271362,
+      "end": 1744980271362,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "result": "import { default as __nuxt_component_0 } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/node_modules/nuxt/dist/app/components/nuxt-link\";\nconst _sfc_main = {}\nimport { createElementVNode as _createElementVNode, createTextVNode as _createTextVNode, resolveComponent as _resolveComponent, withCtx as _withCtx, createVNode as _createVNode, createStaticVNode as _createStaticVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\nimport _imports_0 from '/images/resource/about2-1.jpg'\nimport _imports_1 from '/images/resource/about2-2.jpg'\nimport _imports_2 from '/images/resource/exp-icon.png'\n\n\nconst _hoisted_1 = { class: \"about-section-two\" }\nconst _hoisted_2 = { class: \"auto-container\" }\nconst _hoisted_3 = { class: \"row\" }\nconst _hoisted_4 = {\n  class: \"content-column col-lg-7 wow fadeInRight\",\n  \"data-wow-delay\": \"600ms\"\n}\nconst _hoisted_5 = { class: \"inner-column\" }\nconst _hoisted_6 = /*#__PURE__*/_createStaticVNode(\"<div class=\\\"sec-title\\\"><span class=\\\"sub-title\\\">Hoexr Luxury Hotel</span><h2>We Provide Outdoor <br>Activities To All Visitors</h2><div class=\\\"text\\\">San Francisco has hills with views, the coast, excellent food &amp; <br>has been voted the happiest, healthiest and fittest city in the <br>States many times.</div></div><div class=\\\"outer-box\\\"><div class=\\\"info-block\\\"><div class=\\\"inner\\\"><div class=\\\"icon-box\\\"><i class=\\\"flaticon-light\\\"></i></div><h4 class=\\\"title\\\">The Best <br>Lighting</h4></div></div><div class=\\\"info-block\\\"><div class=\\\"inner\\\"><div class=\\\"icon-box\\\"><i class=\\\"flaticon-pool\\\"></i></div><h4 class=\\\"title\\\">The Best <br>Swiming</h4></div></div></div><ul class=\\\"list-style-two\\\"><li><i class=\\\"icon fa fa-circle-check\\\"></i>It is a long fact that a reader will be distracted by the readable</li><li><i class=\\\"icon fa fa-circle-check\\\"></i>Lorem Ipsum is simply dummy of the printing and industry</li><li><i class=\\\"icon fa fa-circle-check\\\"></i>There are many variations of Lorem Ipsum majority</li></ul>\", 3)\nconst _hoisted_9 = { class: \"btn-box\" }\nconst _hoisted_10 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"btn-title\" }, \"Discover More\", -1)\nconst _hoisted_11 = /*#__PURE__*/_createStaticVNode(\"<div class=\\\"image-column col-lg-5\\\"><div class=\\\"inner-column wow fadeInLeft\\\"><figure class=\\\"image-1 overlay-anim wow fadeInUp\\\"><img src=\\\"\" + _imports_0 + \"\\\" alt=\\\"\\\"></figure><figure class=\\\"image-2 overlay-anim wow fadeInLeft\\\"><img src=\\\"\" + _imports_1 + \"\\\" alt=\\\"\\\"></figure><div class=\\\"exp-box bounce-y\\\"><figure class=\\\"overlay-anim wow fadeInLeft\\\"><img src=\\\"\" + _imports_2 + \"\\\" alt=\\\"\\\"></figure><h4 class=\\\"title\\\">Luxury Room</h4><div class=\\\"text\\\">Donec in quis the asd <br>pellentesque velit. Donec id <br>velit arcu posuere blane.</div></div></div></div>\", 1)\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_NuxtLink = __nuxt_component_0\n\n  return (_openBlock(), _createElementBlock(\"section\", _hoisted_1, [\n    _createElementVNode(\"div\", _hoisted_2, [\n      _createElementVNode(\"div\", _hoisted_3, [\n        _createElementVNode(\"div\", _hoisted_4, [\n          _createElementVNode(\"div\", _hoisted_5, [\n            _hoisted_6,\n            _createElementVNode(\"div\", _hoisted_9, [\n              _createVNode(_component_NuxtLink, {\n                to: \"page-about\",\n                class: \"theme-btn btn-style-one\"\n              }, {\n                default: _withCtx(() => [\n                  _hoisted_10\n                ]),\n                _: 1\n              })\n            ])\n          ])\n        ]),\n        _hoisted_11\n      ])\n    ])\n  ]))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271362,
+      "end": 1744980271362,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1744980271362,
+      "end": 1744980271362,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1744980271362,
+      "end": 1744980271362,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1744980271362,
+      "end": 1744980271362,
+      "order": "normal"
+    }
+  ]
+}

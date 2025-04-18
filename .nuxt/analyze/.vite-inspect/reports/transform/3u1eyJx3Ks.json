@@ -1,0 +1,212 @@
+{
+  "resolvedId": "virtual:nuxt:/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/.nuxt/routes.mjs",
+  "transforms": [
+    {
+      "name": "virtual",
+      "result": "import { default as index_452dzRJWCTbFsMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/index-2.vue?macro=true\";\nimport { default as indexewvcdaGTIuMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/index.vue?macro=true\";\nimport { default as news_45detailsjlWbFA2GNPMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/news-details.vue?macro=true\";\nimport { default as news_45gridYKS9EL67VkMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/news-grid.vue?macro=true\";\nimport { default as page_45aboutprp4zQYOEoMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-about.vue?macro=true\";\nimport { default as page_45contactMR8OJtoDTOMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-contact.vue?macro=true\";\nimport { default as page_45pricingf1J1ZjeciIMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-pricing.vue?macro=true\";\nimport { default as page_45rooms_45suite4hMQpUQ5JSMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-rooms-suite.vue?macro=true\";\nimport { default as page_45roomsGDIqhGogpLMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-rooms.vue?macro=true\";\nimport { default as page_45service_45details3c3BClNlDPMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-service-details.vue?macro=true\";\nimport { default as page_45team_45detailszUc2SZwRpUMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-team-details.vue?macro=true\";\nimport { default as page_45teamNj7qrFiyb1Meta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-team.vue?macro=true\";\nimport { default as page_45testimonial9C4HEUo1IhMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-testimonial.vue?macro=true\";\nimport { default as room_45detailst3u6xeXJqkMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/room-details.vue?macro=true\";\nexport default [\n  {\n    name: index_452dzRJWCTbFsMeta?.name ?? \"index-2\",\n    path: index_452dzRJWCTbFsMeta?.path ?? \"/index-2\",\n    meta: index_452dzRJWCTbFsMeta || {},\n    alias: index_452dzRJWCTbFsMeta?.alias || [],\n    redirect: index_452dzRJWCTbFsMeta?.redirect,\n    component: () => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/index-2.vue\").then(m => m.default || m)\n  },\n  {\n    name: indexewvcdaGTIuMeta?.name ?? \"index\",\n    path: indexewvcdaGTIuMeta?.path ?? \"/\",\n    meta: indexewvcdaGTIuMeta || {},\n    alias: indexewvcdaGTIuMeta?.alias || [],\n    redirect: indexewvcdaGTIuMeta?.redirect,\n    component: () => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/index.vue\").then(m => m.default || m)\n  },\n  {\n    name: news_45detailsjlWbFA2GNPMeta?.name ?? \"news-details\",\n    path: news_45detailsjlWbFA2GNPMeta?.path ?? \"/news-details\",\n    meta: news_45detailsjlWbFA2GNPMeta || {},\n    alias: news_45detailsjlWbFA2GNPMeta?.alias || [],\n    redirect: news_45detailsjlWbFA2GNPMeta?.redirect,\n    component: () => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/news-details.vue\").then(m => m.default || m)\n  },\n  {\n    name: news_45gridYKS9EL67VkMeta?.name ?? \"news-grid\",\n    path: news_45gridYKS9EL67VkMeta?.path ?? \"/news-grid\",\n    meta: news_45gridYKS9EL67VkMeta || {},\n    alias: news_45gridYKS9EL67VkMeta?.alias || [],\n    redirect: news_45gridYKS9EL67VkMeta?.redirect,\n    component: () => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/news-grid.vue\").then(m => m.default || m)\n  },\n  {\n    name: page_45aboutprp4zQYOEoMeta?.name ?? \"page-about\",\n    path: page_45aboutprp4zQYOEoMeta?.path ?? \"/page-about\",\n    meta: page_45aboutprp4zQYOEoMeta || {},\n    alias: page_45aboutprp4zQYOEoMeta?.alias || [],\n    redirect: page_45aboutprp4zQYOEoMeta?.redirect,\n    component: () => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-about.vue\").then(m => m.default || m)\n  },\n  {\n    name: page_45contactMR8OJtoDTOMeta?.name ?? \"page-contact\",\n    path: page_45contactMR8OJtoDTOMeta?.path ?? \"/page-contact\",\n    meta: page_45contactMR8OJtoDTOMeta || {},\n    alias: page_45contactMR8OJtoDTOMeta?.alias || [],\n    redirect: page_45contactMR8OJtoDTOMeta?.redirect,\n    component: () => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-contact.vue\").then(m => m.default || m)\n  },\n  {\n    name: page_45pricingf1J1ZjeciIMeta?.name ?? \"page-pricing\",\n    path: page_45pricingf1J1ZjeciIMeta?.path ?? \"/page-pricing\",\n    meta: page_45pricingf1J1ZjeciIMeta || {},\n    alias: page_45pricingf1J1ZjeciIMeta?.alias || [],\n    redirect: page_45pricingf1J1ZjeciIMeta?.redirect,\n    component: () => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-pricing.vue\").then(m => m.default || m)\n  },\n  {\n    name: page_45rooms_45suite4hMQpUQ5JSMeta?.name ?? \"page-rooms-suite\",\n    path: page_45rooms_45suite4hMQpUQ5JSMeta?.path ?? \"/page-rooms-suite\",\n    meta: page_45rooms_45suite4hMQpUQ5JSMeta || {},\n    alias: page_45rooms_45suite4hMQpUQ5JSMeta?.alias || [],\n    redirect: page_45rooms_45suite4hMQpUQ5JSMeta?.redirect,\n    component: () => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-rooms-suite.vue\").then(m => m.default || m)\n  },\n  {\n    name: page_45roomsGDIqhGogpLMeta?.name ?? \"page-rooms\",\n    path: page_45roomsGDIqhGogpLMeta?.path ?? \"/page-rooms\",\n    meta: page_45roomsGDIqhGogpLMeta || {},\n    alias: page_45roomsGDIqhGogpLMeta?.alias || [],\n    redirect: page_45roomsGDIqhGogpLMeta?.redirect,\n    component: () => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-rooms.vue\").then(m => m.default || m)\n  },\n  {\n    name: page_45service_45details3c3BClNlDPMeta?.name ?? \"page-service-details\",\n    path: page_45service_45details3c3BClNlDPMeta?.path ?? \"/page-service-details\",\n    meta: page_45service_45details3c3BClNlDPMeta || {},\n    alias: page_45service_45details3c3BClNlDPMeta?.alias || [],\n    redirect: page_45service_45details3c3BClNlDPMeta?.redirect,\n    component: () => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-service-details.vue\").then(m => m.default || m)\n  },\n  {\n    name: page_45team_45detailszUc2SZwRpUMeta?.name ?? \"page-team-details\",\n    path: page_45team_45detailszUc2SZwRpUMeta?.path ?? \"/page-team-details\",\n    meta: page_45team_45detailszUc2SZwRpUMeta || {},\n    alias: page_45team_45detailszUc2SZwRpUMeta?.alias || [],\n    redirect: page_45team_45detailszUc2SZwRpUMeta?.redirect,\n    component: () => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-team-details.vue\").then(m => m.default || m)\n  },\n  {\n    name: page_45teamNj7qrFiyb1Meta?.name ?? \"page-team\",\n    path: page_45teamNj7qrFiyb1Meta?.path ?? \"/page-team\",\n    meta: page_45teamNj7qrFiyb1Meta || {},\n    alias: page_45teamNj7qrFiyb1Meta?.alias || [],\n    redirect: page_45teamNj7qrFiyb1Meta?.redirect,\n    component: () => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-team.vue\").then(m => m.default || m)\n  },\n  {\n    name: page_45testimonial9C4HEUo1IhMeta?.name ?? \"page-testimonial\",\n    path: page_45testimonial9C4HEUo1IhMeta?.path ?? \"/page-testimonial\",\n    meta: page_45testimonial9C4HEUo1IhMeta || {},\n    alias: page_45testimonial9C4HEUo1IhMeta?.alias || [],\n    redirect: page_45testimonial9C4HEUo1IhMeta?.redirect,\n    component: () => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-testimonial.vue\").then(m => m.default || m)\n  },\n  {\n    name: room_45detailst3u6xeXJqkMeta?.name ?? \"room-details\",\n    path: room_45detailst3u6xeXJqkMeta?.path ?? \"/room-details\",\n    meta: room_45detailst3u6xeXJqkMeta || {},\n    alias: room_45detailst3u6xeXJqkMeta?.alias || [],\n    redirect: room_45detailst3u6xeXJqkMeta?.redirect,\n    component: () => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/room-details.vue\").then(m => m.default || m)\n  }\n]",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1744980269037,
+      "end": 1744980269037,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1744980269037,
+      "end": 1744980269038,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1744980269038,
+      "end": 1744980269038,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1744980269038,
+      "end": 1744980269038,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1744980269038,
+      "end": 1744980269038,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1744980269038,
+      "end": 1744980269038,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1744980269038,
+      "end": 1744980269038,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1744980269038,
+      "end": 1744980269038,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1744980269038,
+      "end": 1744980269038,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980269038,
+      "end": 1744980269038,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980269038,
+      "end": 1744980269041,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980269041,
+      "end": 1744980269041,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1744980269041,
+      "end": 1744980269041,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1744980269041,
+      "end": 1744980269041,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1744980269041,
+      "end": 1744980269041,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1744980269041,
+      "end": 1744980269041,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1744980269041,
+      "end": 1744980269041,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "result": "import { __vitePreload } from \"\u0000vite/preload-helper.js\";import { default as index_452dzRJWCTbFsMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/index-2.vue?macro=true\";\nimport { default as indexewvcdaGTIuMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/index.vue?macro=true\";\nimport { default as news_45detailsjlWbFA2GNPMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/news-details.vue?macro=true\";\nimport { default as news_45gridYKS9EL67VkMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/news-grid.vue?macro=true\";\nimport { default as page_45aboutprp4zQYOEoMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-about.vue?macro=true\";\nimport { default as page_45contactMR8OJtoDTOMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-contact.vue?macro=true\";\nimport { default as page_45pricingf1J1ZjeciIMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-pricing.vue?macro=true\";\nimport { default as page_45rooms_45suite4hMQpUQ5JSMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-rooms-suite.vue?macro=true\";\nimport { default as page_45roomsGDIqhGogpLMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-rooms.vue?macro=true\";\nimport { default as page_45service_45details3c3BClNlDPMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-service-details.vue?macro=true\";\nimport { default as page_45team_45detailszUc2SZwRpUMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-team-details.vue?macro=true\";\nimport { default as page_45teamNj7qrFiyb1Meta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-team.vue?macro=true\";\nimport { default as page_45testimonial9C4HEUo1IhMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-testimonial.vue?macro=true\";\nimport { default as room_45detailst3u6xeXJqkMeta } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/room-details.vue?macro=true\";\nexport default [\n  {\n    name: index_452dzRJWCTbFsMeta?.name ?? \"index-2\",\n    path: index_452dzRJWCTbFsMeta?.path ?? \"/index-2\",\n    meta: index_452dzRJWCTbFsMeta || {},\n    alias: index_452dzRJWCTbFsMeta?.alias || [],\n    redirect: index_452dzRJWCTbFsMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/index-2.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: indexewvcdaGTIuMeta?.name ?? \"index\",\n    path: indexewvcdaGTIuMeta?.path ?? \"/\",\n    meta: indexewvcdaGTIuMeta || {},\n    alias: indexewvcdaGTIuMeta?.alias || [],\n    redirect: indexewvcdaGTIuMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/index.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: news_45detailsjlWbFA2GNPMeta?.name ?? \"news-details\",\n    path: news_45detailsjlWbFA2GNPMeta?.path ?? \"/news-details\",\n    meta: news_45detailsjlWbFA2GNPMeta || {},\n    alias: news_45detailsjlWbFA2GNPMeta?.alias || [],\n    redirect: news_45detailsjlWbFA2GNPMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/news-details.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: news_45gridYKS9EL67VkMeta?.name ?? \"news-grid\",\n    path: news_45gridYKS9EL67VkMeta?.path ?? \"/news-grid\",\n    meta: news_45gridYKS9EL67VkMeta || {},\n    alias: news_45gridYKS9EL67VkMeta?.alias || [],\n    redirect: news_45gridYKS9EL67VkMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/news-grid.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: page_45aboutprp4zQYOEoMeta?.name ?? \"page-about\",\n    path: page_45aboutprp4zQYOEoMeta?.path ?? \"/page-about\",\n    meta: page_45aboutprp4zQYOEoMeta || {},\n    alias: page_45aboutprp4zQYOEoMeta?.alias || [],\n    redirect: page_45aboutprp4zQYOEoMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-about.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: page_45contactMR8OJtoDTOMeta?.name ?? \"page-contact\",\n    path: page_45contactMR8OJtoDTOMeta?.path ?? \"/page-contact\",\n    meta: page_45contactMR8OJtoDTOMeta || {},\n    alias: page_45contactMR8OJtoDTOMeta?.alias || [],\n    redirect: page_45contactMR8OJtoDTOMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-contact.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: page_45pricingf1J1ZjeciIMeta?.name ?? \"page-pricing\",\n    path: page_45pricingf1J1ZjeciIMeta?.path ?? \"/page-pricing\",\n    meta: page_45pricingf1J1ZjeciIMeta || {},\n    alias: page_45pricingf1J1ZjeciIMeta?.alias || [],\n    redirect: page_45pricingf1J1ZjeciIMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-pricing.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: page_45rooms_45suite4hMQpUQ5JSMeta?.name ?? \"page-rooms-suite\",\n    path: page_45rooms_45suite4hMQpUQ5JSMeta?.path ?? \"/page-rooms-suite\",\n    meta: page_45rooms_45suite4hMQpUQ5JSMeta || {},\n    alias: page_45rooms_45suite4hMQpUQ5JSMeta?.alias || [],\n    redirect: page_45rooms_45suite4hMQpUQ5JSMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-rooms-suite.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: page_45roomsGDIqhGogpLMeta?.name ?? \"page-rooms\",\n    path: page_45roomsGDIqhGogpLMeta?.path ?? \"/page-rooms\",\n    meta: page_45roomsGDIqhGogpLMeta || {},\n    alias: page_45roomsGDIqhGogpLMeta?.alias || [],\n    redirect: page_45roomsGDIqhGogpLMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-rooms.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: page_45service_45details3c3BClNlDPMeta?.name ?? \"page-service-details\",\n    path: page_45service_45details3c3BClNlDPMeta?.path ?? \"/page-service-details\",\n    meta: page_45service_45details3c3BClNlDPMeta || {},\n    alias: page_45service_45details3c3BClNlDPMeta?.alias || [],\n    redirect: page_45service_45details3c3BClNlDPMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-service-details.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: page_45team_45detailszUc2SZwRpUMeta?.name ?? \"page-team-details\",\n    path: page_45team_45detailszUc2SZwRpUMeta?.path ?? \"/page-team-details\",\n    meta: page_45team_45detailszUc2SZwRpUMeta || {},\n    alias: page_45team_45detailszUc2SZwRpUMeta?.alias || [],\n    redirect: page_45team_45detailszUc2SZwRpUMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-team-details.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: page_45teamNj7qrFiyb1Meta?.name ?? \"page-team\",\n    path: page_45teamNj7qrFiyb1Meta?.path ?? \"/page-team\",\n    meta: page_45teamNj7qrFiyb1Meta || {},\n    alias: page_45teamNj7qrFiyb1Meta?.alias || [],\n    redirect: page_45teamNj7qrFiyb1Meta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-team.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: page_45testimonial9C4HEUo1IhMeta?.name ?? \"page-testimonial\",\n    path: page_45testimonial9C4HEUo1IhMeta?.path ?? \"/page-testimonial\",\n    meta: page_45testimonial9C4HEUo1IhMeta || {},\n    alias: page_45testimonial9C4HEUo1IhMeta?.alias || [],\n    redirect: page_45testimonial9C4HEUo1IhMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/page-testimonial.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: room_45detailst3u6xeXJqkMeta?.name ?? \"room-details\",\n    path: room_45detailst3u6xeXJqkMeta?.path ?? \"/room-details\",\n    meta: room_45detailst3u6xeXJqkMeta || {},\n    alias: room_45detailst3u6xeXJqkMeta?.alias || [],\n    redirect: room_45detailst3u6xeXJqkMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/room-details.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  }\n]",
+      "start": 1744980269041,
+      "end": 1744980269042,
+      "order": "normal",
+      "sourcemaps": null
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1744980269042,
+      "end": 1744980269042,
+      "order": "normal"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "resolvedId": "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/components/sections/innerpages/Contact.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\r\n\r\n\t<!--Contact Details Start-->\r\n\t<section class=\"contact-details\">\r\n\t\t<div class=\"container \">\r\n\t\t\t<div class=\"row\">\r\n\t\t\t\t<div class=\"col-xl-7 col-lg-6\">\r\n\t\t\t\t\t<div class=\"sec-title\">\r\n\t\t\t\t\t\t<span class=\"sub-title before-none\">Send us email</span>\r\n\t\t\t\t\t\t<h2>Feel free to write</h2>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<!-- Contact Form -->\r\n\t\t\t\t\t<form id=\"contact_form\" name=\"contact_form\" class=\"\" action=\"#\" method=\"post\">\r\n\t\t\t\t\t\t<div class=\"row\">\r\n\t\t\t\t\t\t\t<div class=\"col-sm-6\">\r\n\t\t\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t\t\t<input name=\"form_name\" class=\"form-control\" type=\"text\" placeholder=\"Enter Name\">\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class=\"col-sm-6\">\r\n\t\t\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t\t\t<input name=\"form_email\" class=\"form-control required email\" type=\"email\" placeholder=\"Enter Email\">\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"row\">\r\n\t\t\t\t\t\t\t<div class=\"col-sm-6\">\r\n\t\t\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t\t\t<input name=\"form_subject\" class=\"form-control required\" type=\"text\" placeholder=\"Enter Subject\">\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class=\"col-sm-6\">\r\n\t\t\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t\t\t<input name=\"form_phone\" class=\"form-control\" type=\"text\" placeholder=\"Enter Phone\">\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t<textarea name=\"form_message\" class=\"form-control required\" rows=\"7\" placeholder=\"Enter Message\"></textarea>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"mb-5\">\r\n\t\t\t\t\t\t\t<input name=\"form_botcheck\" class=\"form-control\" type=\"hidden\" value=\"\" />\r\n\t\t\t\t\t\t\t<button type=\"submit\" class=\"theme-btn btn-style-one me-1\" data-loading-text=\"Please wait...\"><span class=\"btn-title\">Send message</span></button>\r\n\t\t\t\t\t\t\t<button type=\"reset\" class=\"theme-btn btn-style-one bg-theme-color5\"><span class=\"btn-title\">Reset</span></button>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</form>\r\n\t\t\t\t\t<!-- Contact Form Validation-->\r\n\t\t\t\t</div>\r\n\t\t\t\t<div class=\"col-xl-5 col-lg-6\">\r\n\t\t\t\t\t<div class=\"contact-details__right\">\r\n\t\t\t\t\t\t<div class=\"sec-title\">\r\n\t\t\t\t\t\t\t<span class=\"sub-title before-none\">Need any help?</span>\r\n\t\t\t\t\t\t\t<h2>Get in touch with us</h2>\r\n\t\t\t\t\t\t\t<div class=\"text\">Lorem ipsum is simply free text available dolor sit amet consectetur notted adipisicing elit sed do eiusmod tempor incididunt simply dolore magna.</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<ul class=\"list-unstyled contact-details__info\">\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<div class=\"icon\">\r\n\t\t\t\t\t\t\t\t\t<span class=\"lnr-icon-phone-plus\"></span>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t<div class=\"text\">\r\n\t\t\t\t\t\t\t\t\t<h6>Have any question?</h6>\r\n\t\t\t\t\t\t\t\t\t<a href=\"tel:980089850\"><span>Free</span> +92 (020)-9850</a>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<div class=\"icon\">\r\n\t\t\t\t\t\t\t\t\t<span class=\"lnr-icon-envelope1\"></span>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t<div class=\"text\">\r\n\t\t\t\t\t\t\t\t\t<h6>Write email</h6>\r\n\t\t\t\t\t\t\t\t\t<a href=\"mailto:needhelp@company.com\">needhelp@company.com</a>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<div class=\"icon\">\r\n\t\t\t\t\t\t\t\t\t<span class=\"lnr-icon-location\"></span>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t<div class=\"text\">\r\n\t\t\t\t\t\t\t\t\t<h6>Visit anytime</h6>\r\n\t\t\t\t\t\t\t\t\t<span>66 broklyn golden street. New York</span>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</section>\r\n\t<!--Contact Details End-->\r\n\r\n\t<!-- Map Section-->\r\n\t<section class=\"map-section\">\r\n\t\t<iframe  class=\"map w-100\"  src=\"https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed\"></iframe>\r\n\t</section>\r\n\t<!--End Map Section-->\r\n</template>",
+      "start": 1744980271381,
+      "end": 1744980271448,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980271448,
+      "end": 1744980271448,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980271448,
+      "end": 1744980271448,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1744980271448,
+      "end": 1744980271448,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1744980271448,
+      "end": 1744980271448,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1744980271448,
+      "end": 1744980271448,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1744980271448,
+      "end": 1744980271448,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1744980271448,
+      "end": 1744980271448,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "const _sfc_main = {}\nimport { createElementVNode as _createElementVNode, createTextVNode as _createTextVNode, Fragment as _Fragment, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\n\nconst _hoisted_1 = /*#__PURE__*/_createElementVNode(\"section\", { class: \"contact-details\" }, [\n  /*#__PURE__*/_createElementVNode(\"div\", { class: \"container\" }, [\n    /*#__PURE__*/_createElementVNode(\"div\", { class: \"row\" }, [\n      /*#__PURE__*/_createElementVNode(\"div\", { class: \"col-xl-7 col-lg-6\" }, [\n        /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title\" }, [\n          /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title before-none\" }, \"Send us email\"),\n          /*#__PURE__*/_createElementVNode(\"h2\", null, \"Feel free to write\")\n        ]),\n        /*#__PURE__*/_createElementVNode(\"form\", {\n          id: \"contact_form\",\n          name: \"contact_form\",\n          class: \"\",\n          action: \"#\",\n          method: \"post\"\n        }, [\n          /*#__PURE__*/_createElementVNode(\"div\", { class: \"row\" }, [\n            /*#__PURE__*/_createElementVNode(\"div\", { class: \"col-sm-6\" }, [\n              /*#__PURE__*/_createElementVNode(\"div\", { class: \"mb-3\" }, [\n                /*#__PURE__*/_createElementVNode(\"input\", {\n                  name: \"form_name\",\n                  class: \"form-control\",\n                  type: \"text\",\n                  placeholder: \"Enter Name\"\n                })\n              ])\n            ]),\n            /*#__PURE__*/_createElementVNode(\"div\", { class: \"col-sm-6\" }, [\n              /*#__PURE__*/_createElementVNode(\"div\", { class: \"mb-3\" }, [\n                /*#__PURE__*/_createElementVNode(\"input\", {\n                  name: \"form_email\",\n                  class: \"form-control required email\",\n                  type: \"email\",\n                  placeholder: \"Enter Email\"\n                })\n              ])\n            ])\n          ]),\n          /*#__PURE__*/_createElementVNode(\"div\", { class: \"row\" }, [\n            /*#__PURE__*/_createElementVNode(\"div\", { class: \"col-sm-6\" }, [\n              /*#__PURE__*/_createElementVNode(\"div\", { class: \"mb-3\" }, [\n                /*#__PURE__*/_createElementVNode(\"input\", {\n                  name: \"form_subject\",\n                  class: \"form-control required\",\n                  type: \"text\",\n                  placeholder: \"Enter Subject\"\n                })\n              ])\n            ]),\n            /*#__PURE__*/_createElementVNode(\"div\", { class: \"col-sm-6\" }, [\n              /*#__PURE__*/_createElementVNode(\"div\", { class: \"mb-3\" }, [\n                /*#__PURE__*/_createElementVNode(\"input\", {\n                  name: \"form_phone\",\n                  class: \"form-control\",\n                  type: \"text\",\n                  placeholder: \"Enter Phone\"\n                })\n              ])\n            ])\n          ]),\n          /*#__PURE__*/_createElementVNode(\"div\", { class: \"mb-3\" }, [\n            /*#__PURE__*/_createElementVNode(\"textarea\", {\n              name: \"form_message\",\n              class: \"form-control required\",\n              rows: \"7\",\n              placeholder: \"Enter Message\"\n            })\n          ]),\n          /*#__PURE__*/_createElementVNode(\"div\", { class: \"mb-5\" }, [\n            /*#__PURE__*/_createElementVNode(\"input\", {\n              name: \"form_botcheck\",\n              class: \"form-control\",\n              type: \"hidden\",\n              value: \"\"\n            }),\n            /*#__PURE__*/_createElementVNode(\"button\", {\n              type: \"submit\",\n              class: \"theme-btn btn-style-one me-1\",\n              \"data-loading-text\": \"Please wait...\"\n            }, [\n              /*#__PURE__*/_createElementVNode(\"span\", { class: \"btn-title\" }, \"Send message\")\n            ]),\n            /*#__PURE__*/_createElementVNode(\"button\", {\n              type: \"reset\",\n              class: \"theme-btn btn-style-one bg-theme-color5\"\n            }, [\n              /*#__PURE__*/_createElementVNode(\"span\", { class: \"btn-title\" }, \"Reset\")\n            ])\n          ])\n        ])\n      ]),\n      /*#__PURE__*/_createElementVNode(\"div\", { class: \"col-xl-5 col-lg-6\" }, [\n        /*#__PURE__*/_createElementVNode(\"div\", { class: \"contact-details__right\" }, [\n          /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title\" }, [\n            /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title before-none\" }, \"Need any help?\"),\n            /*#__PURE__*/_createElementVNode(\"h2\", null, \"Get in touch with us\"),\n            /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, \"Lorem ipsum is simply free text available dolor sit amet consectetur notted adipisicing elit sed do eiusmod tempor incididunt simply dolore magna.\")\n          ]),\n          /*#__PURE__*/_createElementVNode(\"ul\", { class: \"list-unstyled contact-details__info\" }, [\n            /*#__PURE__*/_createElementVNode(\"li\", null, [\n              /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon\" }, [\n                /*#__PURE__*/_createElementVNode(\"span\", { class: \"lnr-icon-phone-plus\" })\n              ]),\n              /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, [\n                /*#__PURE__*/_createElementVNode(\"h6\", null, \"Have any question?\"),\n                /*#__PURE__*/_createElementVNode(\"a\", { href: \"tel:980089850\" }, [\n                  /*#__PURE__*/_createElementVNode(\"span\", null, \"Free\"),\n                  /*#__PURE__*/_createTextVNode(\" +92 (020)-9850\")\n                ])\n              ])\n            ]),\n            /*#__PURE__*/_createElementVNode(\"li\", null, [\n              /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon\" }, [\n                /*#__PURE__*/_createElementVNode(\"span\", { class: \"lnr-icon-envelope1\" })\n              ]),\n              /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, [\n                /*#__PURE__*/_createElementVNode(\"h6\", null, \"Write email\"),\n                /*#__PURE__*/_createElementVNode(\"a\", { href: \"mailto:needhelp@company.com\" }, \"needhelp@company.com\")\n              ])\n            ]),\n            /*#__PURE__*/_createElementVNode(\"li\", null, [\n              /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon\" }, [\n                /*#__PURE__*/_createElementVNode(\"span\", { class: \"lnr-icon-location\" })\n              ]),\n              /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, [\n                /*#__PURE__*/_createElementVNode(\"h6\", null, \"Visit anytime\"),\n                /*#__PURE__*/_createElementVNode(\"span\", null, \"66 broklyn golden street. New York\")\n              ])\n            ])\n          ])\n        ])\n      ])\n    ])\n  ])\n], -1)\nconst _hoisted_2 = /*#__PURE__*/_createElementVNode(\"section\", { class: \"map-section\" }, [\n  /*#__PURE__*/_createElementVNode(\"iframe\", {\n    class: \"map w-100\",\n    src: \"https://maps.google.com/maps?width=100%25&height=600&hl=en&q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&t=&z=14&ie=UTF8&iwloc=B&output=embed\"\n  })\n], -1)\n\nfunction _sfc_render(_ctx, _cache) {\n  return (_openBlock(), _createElementBlock(_Fragment, null, [\n    _hoisted_1,\n    _hoisted_2\n  ], 64))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271448,
+      "end": 1744980271449,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980271449,
+      "end": 1744980271449,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980271449,
+      "end": 1744980271450,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980271450,
+      "end": 1744980271450,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1744980271450,
+      "end": 1744980271450,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1744980271450,
+      "end": 1744980271450,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1744980271450,
+      "end": 1744980271450,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1744980271450,
+      "end": 1744980271450,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1744980271450,
+      "end": 1744980271450,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1744980271450,
+      "end": 1744980271450,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1744980271450,
+      "end": 1744980271450,
+      "order": "normal"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "resolvedId": "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/components/sections/home2/Booking.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\r\n  <!-- call-to-action -->\r\n  <section class=\"call-to-action pt-0\">\r\n    <div class=\"auto-container\">\r\n      <div class=\"row\">\r\n        <div class=\"content-colum col-lg-6 col-md-12 col-sm-12\">\r\n          <div class=\"inner-column wow fadeInLeft\">\r\n            <div class=\"sec-title\"> <span class=\"sub-title\">Call to action</span>\r\n              <h2>The Thin Escape.</h2>\r\n            </div>\r\n            <!-- call-block -->\r\n            <div class=\"call-block\">\r\n              <div class=\"inner-box\">\r\n                <div class=\"icon-box\"> <i class=\"flaticon-airplane\"></i> </div>\r\n                <h4 class=\"title\">Easy & Free Transport</h4>\r\n                <div class=\"text\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br>\r\n                  eiusmod tempor incididunt dolore magna aliqua.</div>\r\n              </div>\r\n            </div>\r\n            <!-- call-block -->\r\n            <div class=\"call-block\">\r\n              <div class=\"inner-box\">\r\n                <div class=\"icon-box\"> <i class=\"flaticon-fast-food\"></i> </div>\r\n                <h4 class=\"title\">Clean & Fresh Food</h4>\r\n                <div class=\"text\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br>\r\n                  eiusmod tempor incididunt dolore magna aliqua.</div>\r\n              </div>\r\n            </div>\r\n            <!-- call-block -->\r\n            <div class=\"call-block\">\r\n              <div class=\"inner-box\">\r\n                <div class=\"icon-box\"> <i class=\"flaticon-swimming-pool-1\"></i> </div>\r\n                <h4 class=\"title\">Play Ground & Swimming Pool</h4>\r\n                <div class=\"text\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br>\r\n                  eiusmod tempor incididunt dolore magna aliqua.</div>\r\n              </div>\r\n            </div>\r\n            <div class=\"btn-box\"> <a href=\"\" class=\"read-more\">Book A Hotel</a> </div>\r\n          </div>\r\n        </div>\r\n        <div class=\"col-lg-6 booking-form-column\">\r\n          <div class=\"inner-column wow fadeInRight\" data-wow-delay=\"200ms\">\r\n            <div class=\"sec-title\"> <span class=\"sub-title\">ROOMS & SUITES</span>\r\n              <h2>Hotel Booking </h2>\r\n            </div>\r\n            <form class=\"bk-form\">\r\n              <div class=\"frm-field\">\r\n                <input type=\"text\" name=\"check-in\" class=\"date-pick\" placeholder=\"Check in\" />\r\n                <img src=\"/images/icons/mail.png\" alt=\"\" /> </div>\r\n              <div class=\"frm-field\">\r\n                <input type=\"text\" name=\"check-in\" class=\"date-pick\" placeholder=\"Check out\" />\r\n                <img src=\"/images/icons/mail.png\" alt=\"\" /> </div>\r\n              <div class=\"frm-field\">\r\n                <select>\r\n                  <option>Adult</option>\r\n                  <option>Adult</option>\r\n                  <option>Adult</option>\r\n                  <option>Adult</option>\r\n                </select>\r\n                <i class=\"fa fa-angle-down\"></i> </div>\r\n              <div class=\"frm-field\">\r\n                <select>\r\n                  <option>Children</option>\r\n                  <option>Children</option>\r\n                  <option>Children</option>\r\n                  <option>Children</option>\r\n                </select>\r\n                <i class=\"fa fa-angle-down\"></i> </div>\r\n              <div class=\"form-submit\">\r\n                <button type=\"submit\">Check Availability</button>\r\n              </div>\r\n            </form>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n</template>",
+      "start": 1744980271332,
+      "end": 1744980271370,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980271370,
+      "end": 1744980271370,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980271370,
+      "end": 1744980271370,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1744980271370,
+      "end": 1744980271370,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1744980271370,
+      "end": 1744980271370,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1744980271370,
+      "end": 1744980271370,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1744980271370,
+      "end": 1744980271370,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1744980271370,
+      "end": 1744980271370,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "const _sfc_main = {}\nimport { createElementVNode as _createElementVNode, createTextVNode as _createTextVNode, createStaticVNode as _createStaticVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\nimport _imports_0 from '/images/icons/mail.png'\n\n\nconst _hoisted_1 = { class: \"call-to-action pt-0\" }\nconst _hoisted_2 = /*#__PURE__*/_createStaticVNode(\"<div class=\\\"auto-container\\\"><div class=\\\"row\\\"><div class=\\\"content-colum col-lg-6 col-md-12 col-sm-12\\\"><div class=\\\"inner-column wow fadeInLeft\\\"><div class=\\\"sec-title\\\"><span class=\\\"sub-title\\\">Call to action</span><h2>The Thin Escape.</h2></div><div class=\\\"call-block\\\"><div class=\\\"inner-box\\\"><div class=\\\"icon-box\\\"><i class=\\\"flaticon-airplane\\\"></i></div><h4 class=\\\"title\\\">Easy &amp; Free Transport</h4><div class=\\\"text\\\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br> eiusmod tempor incididunt dolore magna aliqua.</div></div></div><div class=\\\"call-block\\\"><div class=\\\"inner-box\\\"><div class=\\\"icon-box\\\"><i class=\\\"flaticon-fast-food\\\"></i></div><h4 class=\\\"title\\\">Clean &amp; Fresh Food</h4><div class=\\\"text\\\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br> eiusmod tempor incididunt dolore magna aliqua.</div></div></div><div class=\\\"call-block\\\"><div class=\\\"inner-box\\\"><div class=\\\"icon-box\\\"><i class=\\\"flaticon-swimming-pool-1\\\"></i></div><h4 class=\\\"title\\\">Play Ground &amp; Swimming Pool</h4><div class=\\\"text\\\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br> eiusmod tempor incididunt dolore magna aliqua.</div></div></div><div class=\\\"btn-box\\\"><a href=\\\"\\\" class=\\\"read-more\\\">Book A Hotel</a></div></div></div><div class=\\\"col-lg-6 booking-form-column\\\"><div class=\\\"inner-column wow fadeInRight\\\" data-wow-delay=\\\"200ms\\\"><div class=\\\"sec-title\\\"><span class=\\\"sub-title\\\">ROOMS &amp; SUITES</span><h2>Hotel Booking </h2></div><form class=\\\"bk-form\\\"><div class=\\\"frm-field\\\"><input type=\\\"text\\\" name=\\\"check-in\\\" class=\\\"date-pick\\\" placeholder=\\\"Check in\\\"><img src=\\\"\" + _imports_0 + \"\\\" alt=\\\"\\\"></div><div class=\\\"frm-field\\\"><input type=\\\"text\\\" name=\\\"check-in\\\" class=\\\"date-pick\\\" placeholder=\\\"Check out\\\"><img src=\\\"\" + _imports_0 + \"\\\" alt=\\\"\\\"></div><div class=\\\"frm-field\\\"><select><option>Adult</option><option>Adult</option><option>Adult</option><option>Adult</option></select><i class=\\\"fa fa-angle-down\\\"></i></div><div class=\\\"frm-field\\\"><select><option>Children</option><option>Children</option><option>Children</option><option>Children</option></select><i class=\\\"fa fa-angle-down\\\"></i></div><div class=\\\"form-submit\\\"><button type=\\\"submit\\\">Check Availability</button></div></form></div></div></div></div>\", 1)\nconst _hoisted_3 = [\n  _hoisted_2\n]\n\nfunction _sfc_render(_ctx, _cache) {\n  return (_openBlock(), _createElementBlock(\"section\", _hoisted_1, _hoisted_3))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271370,
+      "end": 1744980271371,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1744980271371,
+      "end": 1744980271371,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1744980271371,
+      "end": 1744980271372,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1744980271372,
+      "end": 1744980271372,
+      "order": "normal"
+    }
+  ]
+}

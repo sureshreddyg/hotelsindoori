@@ -1,0 +1,215 @@
+{
+  "resolvedId": "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/components/sections/home1/Features.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\r\n  <!-- feature-section -->\r\n  <section class=\"feature-section\">\r\n    <div class=\"auto-container\">\r\n      <div class=\"row feature-row g-0 wow slideInUp\" data-wow-delay=\"100ms\">\r\n        <div class=\"image-column col-lg-4\">\r\n          <div class=\"inner-column\">\r\n            <div class=\"image-box\">\r\n              <figure class=\"image overlay-anim\"><img src=\"/images/resource/feature-1.jpg\" alt=\"\"></figure>\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <div class=\"content-column col-lg-8\" >\r\n          <div class=\"inner-column\">\r\n            <div class=\"content-box\">\r\n              <div class=\"sec-title\">\r\n                <span class=\"sub-title\">MODERN</span>\r\n                <h2>Fitness Center</h2>\r\n                <div class=\"text\">Restaurant inilla duiman at elit finibus viverra nec a  lacus themo the <br>nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru <br>the ivite dianne onen nivami acsestion augue artine.</div>\r\n              </div>\r\n              <NuxtLink to=\"room-details\" class=\"theme-btn btn-style-one read-more\">Discover More</NuxtLink>\r\n              <figure class=\"image-2\"><img src=\"/images/resource/icon.png\" alt=\"\"></figure>\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <div class=\"row feature-row g-0 wow slideInUp\" data-wow-delay=\"200ms\">\r\n        <div class=\"content-column col-lg-8\">\r\n          <div class=\"inner-column\">\r\n            <div class=\"content-box\">\r\n              <div class=\"sec-title\">\r\n                <span class=\"sub-title\">DISCOVER</span>\r\n                <h2>The Restaurant</h2>\r\n                <div class=\"text\">Restaurant inilla duiman at elit finibus viverra nec a \r\n                lacus themo the <br>nesudea seneoice misuscipit non sagie the fermen\r\n                ziverra tristiue duru <br>the ivite dianne onen nivami acsestion augue artine.</div>\r\n              </div>\r\n              <NuxtLink to=\"room-details\" class=\"theme-btn btn-style-one read-more\">Discover More</NuxtLink>\r\n              <figure class=\"image-2\"><img src=\"/images/resource/icon-2.png\" alt=\"\"></figure>\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <div class=\"image-column col-lg-4\">\r\n          <div class=\"inner-column\">\r\n            <div class=\"image-box\">\r\n              <figure class=\"image overlay-anim\"><img src=\"/images/resource/feature-2.jpg\" alt=\"\"></figure>\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <div class=\"row feature-row g-0 wow slideInUp\" data-wow-delay=\"300ms\">\r\n       <div class=\"image-column col-lg-4\">\r\n          <div class=\"inner-column\">\r\n            <div class=\"image-box\">\r\n              <figure class=\"image overlay-anim\"><img src=\"/images/resource/feature-3.jpg\" alt=\"\"></figure>\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <div class=\"content-column col-lg-8\">\r\n          <div class=\"inner-column\">\r\n            <div class=\"content-box\">\r\n              <div class=\"sec-title\">\r\n                <span class=\"sub-title\">EXPERIENCES</span>\r\n                <h2>Spa Center</h2>\r\n                <div class=\"text\">Restaurant inilla duiman at elit finibus viverra nec a \r\n                lacus themo the <br>nesudea seneoice misuscipit non sagie the fermen\r\n                ziverra tristiue duru <br>the ivite dianne onen nivami acsestion augue artine.</div>\r\n              </div>\r\n              <NuxtLink to=\"room-details\" class=\"theme-btn btn-style-one read-more\">Discover More</NuxtLink>\r\n              <figure class=\"image-2\"><img src=\"/images/resource/icon-3.png\" alt=\"\"></figure>\r\n            </div> \r\n          </div>\r\n        </div> \r\n      </div>\r\n    </div>\r\n  </section>\r\n  <!-- End feature section -->\r\n</template>",
+      "start": 1744980271350,
+      "end": 1744980271421,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980271421,
+      "end": 1744980271421,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980271421,
+      "end": 1744980271421,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1744980271421,
+      "end": 1744980271421,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1744980271421,
+      "end": 1744980271421,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1744980271421,
+      "end": 1744980271421,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1744980271421,
+      "end": 1744980271421,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1744980271421,
+      "end": 1744980271421,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "const _sfc_main = {}\nimport { createElementVNode as _createElementVNode, createTextVNode as _createTextVNode, resolveComponent as _resolveComponent, withCtx as _withCtx, createVNode as _createVNode, createStaticVNode as _createStaticVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\nimport _imports_0 from '/images/resource/feature-1.jpg'\nimport _imports_1 from '/images/resource/icon.png'\nimport _imports_2 from '/images/resource/icon-2.png'\nimport _imports_3 from '/images/resource/feature-2.jpg'\nimport _imports_4 from '/images/resource/feature-3.jpg'\nimport _imports_5 from '/images/resource/icon-3.png'\n\n\nconst _hoisted_1 = { class: \"feature-section\" }\nconst _hoisted_2 = { class: \"auto-container\" }\nconst _hoisted_3 = {\n  class: \"row feature-row g-0 wow slideInUp\",\n  \"data-wow-delay\": \"100ms\"\n}\nconst _hoisted_4 = /*#__PURE__*/_createStaticVNode(\"<div class=\\\"image-column col-lg-4\\\"><div class=\\\"inner-column\\\"><div class=\\\"image-box\\\"><figure class=\\\"image overlay-anim\\\"><img src=\\\"\" + _imports_0 + \"\\\" alt=\\\"\\\"></figure></div></div></div>\", 1)\nconst _hoisted_5 = { class: \"content-column col-lg-8\" }\nconst _hoisted_6 = { class: \"inner-column\" }\nconst _hoisted_7 = { class: \"content-box\" }\nconst _hoisted_8 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title\" }, \"MODERN\"),\n  /*#__PURE__*/_createElementVNode(\"h2\", null, \"Fitness Center\"),\n  /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, [\n    /*#__PURE__*/_createTextVNode(\"Restaurant inilla duiman at elit finibus viverra nec a lacus themo the \"),\n    /*#__PURE__*/_createElementVNode(\"br\"),\n    /*#__PURE__*/_createTextVNode(\"nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru \"),\n    /*#__PURE__*/_createElementVNode(\"br\"),\n    /*#__PURE__*/_createTextVNode(\"the ivite dianne onen nivami acsestion augue artine.\")\n  ])\n], -1)\nconst _hoisted_9 = /*#__PURE__*/_createElementVNode(\"figure\", { class: \"image-2\" }, [\n  /*#__PURE__*/_createElementVNode(\"img\", {\n    src: _imports_1,\n    alt: \"\"\n  })\n], -1)\nconst _hoisted_10 = {\n  class: \"row feature-row g-0 wow slideInUp\",\n  \"data-wow-delay\": \"200ms\"\n}\nconst _hoisted_11 = { class: \"content-column col-lg-8\" }\nconst _hoisted_12 = { class: \"inner-column\" }\nconst _hoisted_13 = { class: \"content-box\" }\nconst _hoisted_14 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title\" }, \"DISCOVER\"),\n  /*#__PURE__*/_createElementVNode(\"h2\", null, \"The Restaurant\"),\n  /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, [\n    /*#__PURE__*/_createTextVNode(\"Restaurant inilla duiman at elit finibus viverra nec a lacus themo the \"),\n    /*#__PURE__*/_createElementVNode(\"br\"),\n    /*#__PURE__*/_createTextVNode(\"nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru \"),\n    /*#__PURE__*/_createElementVNode(\"br\"),\n    /*#__PURE__*/_createTextVNode(\"the ivite dianne onen nivami acsestion augue artine.\")\n  ])\n], -1)\nconst _hoisted_15 = /*#__PURE__*/_createElementVNode(\"figure\", { class: \"image-2\" }, [\n  /*#__PURE__*/_createElementVNode(\"img\", {\n    src: _imports_2,\n    alt: \"\"\n  })\n], -1)\nconst _hoisted_16 = /*#__PURE__*/_createStaticVNode(\"<div class=\\\"image-column col-lg-4\\\"><div class=\\\"inner-column\\\"><div class=\\\"image-box\\\"><figure class=\\\"image overlay-anim\\\"><img src=\\\"\" + _imports_3 + \"\\\" alt=\\\"\\\"></figure></div></div></div>\", 1)\nconst _hoisted_17 = {\n  class: \"row feature-row g-0 wow slideInUp\",\n  \"data-wow-delay\": \"300ms\"\n}\nconst _hoisted_18 = /*#__PURE__*/_createStaticVNode(\"<div class=\\\"image-column col-lg-4\\\"><div class=\\\"inner-column\\\"><div class=\\\"image-box\\\"><figure class=\\\"image overlay-anim\\\"><img src=\\\"\" + _imports_4 + \"\\\" alt=\\\"\\\"></figure></div></div></div>\", 1)\nconst _hoisted_19 = { class: \"content-column col-lg-8\" }\nconst _hoisted_20 = { class: \"inner-column\" }\nconst _hoisted_21 = { class: \"content-box\" }\nconst _hoisted_22 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title\" }, \"EXPERIENCES\"),\n  /*#__PURE__*/_createElementVNode(\"h2\", null, \"Spa Center\"),\n  /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, [\n    /*#__PURE__*/_createTextVNode(\"Restaurant inilla duiman at elit finibus viverra nec a lacus themo the \"),\n    /*#__PURE__*/_createElementVNode(\"br\"),\n    /*#__PURE__*/_createTextVNode(\"nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru \"),\n    /*#__PURE__*/_createElementVNode(\"br\"),\n    /*#__PURE__*/_createTextVNode(\"the ivite dianne onen nivami acsestion augue artine.\")\n  ])\n], -1)\nconst _hoisted_23 = /*#__PURE__*/_createElementVNode(\"figure\", { class: \"image-2\" }, [\n  /*#__PURE__*/_createElementVNode(\"img\", {\n    src: _imports_5,\n    alt: \"\"\n  })\n], -1)\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_NuxtLink = _resolveComponent(\"NuxtLink\")\n\n  return (_openBlock(), _createElementBlock(\"section\", _hoisted_1, [\n    _createElementVNode(\"div\", _hoisted_2, [\n      _createElementVNode(\"div\", _hoisted_3, [\n        _hoisted_4,\n        _createElementVNode(\"div\", _hoisted_5, [\n          _createElementVNode(\"div\", _hoisted_6, [\n            _createElementVNode(\"div\", _hoisted_7, [\n              _hoisted_8,\n              _createVNode(_component_NuxtLink, {\n                to: \"room-details\",\n                class: \"theme-btn btn-style-one read-more\"\n              }, {\n                default: _withCtx(() => [\n                  _createTextVNode(\"Discover More\")\n                ]),\n                _: 1\n              }),\n              _hoisted_9\n            ])\n          ])\n        ])\n      ]),\n      _createElementVNode(\"div\", _hoisted_10, [\n        _createElementVNode(\"div\", _hoisted_11, [\n          _createElementVNode(\"div\", _hoisted_12, [\n            _createElementVNode(\"div\", _hoisted_13, [\n              _hoisted_14,\n              _createVNode(_component_NuxtLink, {\n                to: \"room-details\",\n                class: \"theme-btn btn-style-one read-more\"\n              }, {\n                default: _withCtx(() => [\n                  _createTextVNode(\"Discover More\")\n                ]),\n                _: 1\n              }),\n              _hoisted_15\n            ])\n          ])\n        ]),\n        _hoisted_16\n      ]),\n      _createElementVNode(\"div\", _hoisted_17, [\n        _hoisted_18,\n        _createElementVNode(\"div\", _hoisted_19, [\n          _createElementVNode(\"div\", _hoisted_20, [\n            _createElementVNode(\"div\", _hoisted_21, [\n              _hoisted_22,\n              _createVNode(_component_NuxtLink, {\n                to: \"room-details\",\n                class: \"theme-btn btn-style-one read-more\"\n              }, {\n                default: _withCtx(() => [\n                  _createTextVNode(\"Discover More\")\n                ]),\n                _: 1\n              }),\n              _hoisted_23\n            ])\n          ])\n        ])\n      ])\n    ])\n  ]))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271421,
+      "end": 1744980271422,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980271422,
+      "end": 1744980271422,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980271422,
+      "end": 1744980271423,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980271423,
+      "end": 1744980271423,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1744980271423,
+      "end": 1744980271423,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1744980271423,
+      "end": 1744980271423,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1744980271423,
+      "end": 1744980271423,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "result": "import { default as __nuxt_component_0 } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/node_modules/nuxt/dist/app/components/nuxt-link\";\nconst _sfc_main = {}\nimport { createElementVNode as _createElementVNode, createTextVNode as _createTextVNode, resolveComponent as _resolveComponent, withCtx as _withCtx, createVNode as _createVNode, createStaticVNode as _createStaticVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\nimport _imports_0 from '/images/resource/feature-1.jpg'\nimport _imports_1 from '/images/resource/icon.png'\nimport _imports_2 from '/images/resource/icon-2.png'\nimport _imports_3 from '/images/resource/feature-2.jpg'\nimport _imports_4 from '/images/resource/feature-3.jpg'\nimport _imports_5 from '/images/resource/icon-3.png'\n\n\nconst _hoisted_1 = { class: \"feature-section\" }\nconst _hoisted_2 = { class: \"auto-container\" }\nconst _hoisted_3 = {\n  class: \"row feature-row g-0 wow slideInUp\",\n  \"data-wow-delay\": \"100ms\"\n}\nconst _hoisted_4 = /*#__PURE__*/_createStaticVNode(\"<div class=\\\"image-column col-lg-4\\\"><div class=\\\"inner-column\\\"><div class=\\\"image-box\\\"><figure class=\\\"image overlay-anim\\\"><img src=\\\"\" + _imports_0 + \"\\\" alt=\\\"\\\"></figure></div></div></div>\", 1)\nconst _hoisted_5 = { class: \"content-column col-lg-8\" }\nconst _hoisted_6 = { class: \"inner-column\" }\nconst _hoisted_7 = { class: \"content-box\" }\nconst _hoisted_8 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title\" }, \"MODERN\"),\n  /*#__PURE__*/_createElementVNode(\"h2\", null, \"Fitness Center\"),\n  /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, [\n    /*#__PURE__*/_createTextVNode(\"Restaurant inilla duiman at elit finibus viverra nec a lacus themo the \"),\n    /*#__PURE__*/_createElementVNode(\"br\"),\n    /*#__PURE__*/_createTextVNode(\"nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru \"),\n    /*#__PURE__*/_createElementVNode(\"br\"),\n    /*#__PURE__*/_createTextVNode(\"the ivite dianne onen nivami acsestion augue artine.\")\n  ])\n], -1)\nconst _hoisted_9 = /*#__PURE__*/_createElementVNode(\"figure\", { class: \"image-2\" }, [\n  /*#__PURE__*/_createElementVNode(\"img\", {\n    src: _imports_1,\n    alt: \"\"\n  })\n], -1)\nconst _hoisted_10 = {\n  class: \"row feature-row g-0 wow slideInUp\",\n  \"data-wow-delay\": \"200ms\"\n}\nconst _hoisted_11 = { class: \"content-column col-lg-8\" }\nconst _hoisted_12 = { class: \"inner-column\" }\nconst _hoisted_13 = { class: \"content-box\" }\nconst _hoisted_14 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title\" }, \"DISCOVER\"),\n  /*#__PURE__*/_createElementVNode(\"h2\", null, \"The Restaurant\"),\n  /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, [\n    /*#__PURE__*/_createTextVNode(\"Restaurant inilla duiman at elit finibus viverra nec a lacus themo the \"),\n    /*#__PURE__*/_createElementVNode(\"br\"),\n    /*#__PURE__*/_createTextVNode(\"nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru \"),\n    /*#__PURE__*/_createElementVNode(\"br\"),\n    /*#__PURE__*/_createTextVNode(\"the ivite dianne onen nivami acsestion augue artine.\")\n  ])\n], -1)\nconst _hoisted_15 = /*#__PURE__*/_createElementVNode(\"figure\", { class: \"image-2\" }, [\n  /*#__PURE__*/_createElementVNode(\"img\", {\n    src: _imports_2,\n    alt: \"\"\n  })\n], -1)\nconst _hoisted_16 = /*#__PURE__*/_createStaticVNode(\"<div class=\\\"image-column col-lg-4\\\"><div class=\\\"inner-column\\\"><div class=\\\"image-box\\\"><figure class=\\\"image overlay-anim\\\"><img src=\\\"\" + _imports_3 + \"\\\" alt=\\\"\\\"></figure></div></div></div>\", 1)\nconst _hoisted_17 = {\n  class: \"row feature-row g-0 wow slideInUp\",\n  \"data-wow-delay\": \"300ms\"\n}\nconst _hoisted_18 = /*#__PURE__*/_createStaticVNode(\"<div class=\\\"image-column col-lg-4\\\"><div class=\\\"inner-column\\\"><div class=\\\"image-box\\\"><figure class=\\\"image overlay-anim\\\"><img src=\\\"\" + _imports_4 + \"\\\" alt=\\\"\\\"></figure></div></div></div>\", 1)\nconst _hoisted_19 = { class: \"content-column col-lg-8\" }\nconst _hoisted_20 = { class: \"inner-column\" }\nconst _hoisted_21 = { class: \"content-box\" }\nconst _hoisted_22 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title\" }, \"EXPERIENCES\"),\n  /*#__PURE__*/_createElementVNode(\"h2\", null, \"Spa Center\"),\n  /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, [\n    /*#__PURE__*/_createTextVNode(\"Restaurant inilla duiman at elit finibus viverra nec a lacus themo the \"),\n    /*#__PURE__*/_createElementVNode(\"br\"),\n    /*#__PURE__*/_createTextVNode(\"nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru \"),\n    /*#__PURE__*/_createElementVNode(\"br\"),\n    /*#__PURE__*/_createTextVNode(\"the ivite dianne onen nivami acsestion augue artine.\")\n  ])\n], -1)\nconst _hoisted_23 = /*#__PURE__*/_createElementVNode(\"figure\", { class: \"image-2\" }, [\n  /*#__PURE__*/_createElementVNode(\"img\", {\n    src: _imports_5,\n    alt: \"\"\n  })\n], -1)\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_NuxtLink = __nuxt_component_0\n\n  return (_openBlock(), _createElementBlock(\"section\", _hoisted_1, [\n    _createElementVNode(\"div\", _hoisted_2, [\n      _createElementVNode(\"div\", _hoisted_3, [\n        _hoisted_4,\n        _createElementVNode(\"div\", _hoisted_5, [\n          _createElementVNode(\"div\", _hoisted_6, [\n            _createElementVNode(\"div\", _hoisted_7, [\n              _hoisted_8,\n              _createVNode(_component_NuxtLink, {\n                to: \"room-details\",\n                class: \"theme-btn btn-style-one read-more\"\n              }, {\n                default: _withCtx(() => [\n                  _createTextVNode(\"Discover More\")\n                ]),\n                _: 1\n              }),\n              _hoisted_9\n            ])\n          ])\n        ])\n      ]),\n      _createElementVNode(\"div\", _hoisted_10, [\n        _createElementVNode(\"div\", _hoisted_11, [\n          _createElementVNode(\"div\", _hoisted_12, [\n            _createElementVNode(\"div\", _hoisted_13, [\n              _hoisted_14,\n              _createVNode(_component_NuxtLink, {\n                to: \"room-details\",\n                class: \"theme-btn btn-style-one read-more\"\n              }, {\n                default: _withCtx(() => [\n                  _createTextVNode(\"Discover More\")\n                ]),\n                _: 1\n              }),\n              _hoisted_15\n            ])\n          ])\n        ]),\n        _hoisted_16\n      ]),\n      _createElementVNode(\"div\", _hoisted_17, [\n        _hoisted_18,\n        _createElementVNode(\"div\", _hoisted_19, [\n          _createElementVNode(\"div\", _hoisted_20, [\n            _createElementVNode(\"div\", _hoisted_21, [\n              _hoisted_22,\n              _createVNode(_component_NuxtLink, {\n                to: \"room-details\",\n                class: \"theme-btn btn-style-one read-more\"\n              }, {\n                default: _withCtx(() => [\n                  _createTextVNode(\"Discover More\")\n                ]),\n                _: 1\n              }),\n              _hoisted_23\n            ])\n          ])\n        ])\n      ])\n    ])\n  ]))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271423,
+      "end": 1744980271423,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1744980271423,
+      "end": 1744980271423,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1744980271423,
+      "end": 1744980271423,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1744980271423,
+      "end": 1744980271423,
+      "order": "normal"
+    }
+  ]
+}

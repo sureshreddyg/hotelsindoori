@@ -39,7 +39,7 @@ jobs:
         env:
           # If your Nuxt app needs a base path for GitHub Pages (e.g., https://<user>.github.io/<repo>/)
           # Set NUXT_APP_BASE_URL environment variable here. Replace <repo> with your repository name.
-          # NUXT_APP_BASE_URL: /<repo>/
+          NUXT_APP_BASE_URL: /hotelsindoori/
           # If deploying to a custom domain, you might not need NUXT_APP_BASE_URL
           NITRO_PRESET: github_pages # Important preset for GitHub Pages deployment
       - name: Setup Pages

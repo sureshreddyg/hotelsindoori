@@ -1,0 +1,276 @@
+{
+  "resolvedId": "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/index.vue?macro=true",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\r\n  <SectionsHome1Slider/>\r\n  <SectionsHome1About/>\r\n  <SectionsHome1Room/>\r\n  <SectionsHome1Services/>\r\n  <SectionsHome1Video/>\r\n  <SectionsHome1Features/>\r\n  <SectionsHome1Testimonial/>\r\n  <SectionsHome1Pricing/>\r\n  <SectionsHome1Team/>\r\n  <SectionsHome1Booking/>\r\n  <SectionsHome1News/>\r\n</template>",
+      "start": 1744980279056,
+      "end": 1744980279106,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "const _sfc_main = {}\nimport { resolveComponent as _resolveComponent } from \"vue\"\nimport { ssrRenderComponent as _ssrRenderComponent } from \"vue/server-renderer\"\n\nfunction _sfc_ssrRender(_ctx, _push, _parent, _attrs) {\n  const _component_SectionsHome1Slider = _resolveComponent(\"SectionsHome1Slider\")\n  const _component_SectionsHome1About = _resolveComponent(\"SectionsHome1About\")\n  const _component_SectionsHome1Room = _resolveComponent(\"SectionsHome1Room\")\n  const _component_SectionsHome1Services = _resolveComponent(\"SectionsHome1Services\")\n  const _component_SectionsHome1Video = _resolveComponent(\"SectionsHome1Video\")\n  const _component_SectionsHome1Features = _resolveComponent(\"SectionsHome1Features\")\n  const _component_SectionsHome1Testimonial = _resolveComponent(\"SectionsHome1Testimonial\")\n  const _component_SectionsHome1Pricing = _resolveComponent(\"SectionsHome1Pricing\")\n  const _component_SectionsHome1Team = _resolveComponent(\"SectionsHome1Team\")\n  const _component_SectionsHome1Booking = _resolveComponent(\"SectionsHome1Booking\")\n  const _component_SectionsHome1News = _resolveComponent(\"SectionsHome1News\")\n\n  _push(`<!--[-->`)\n  _push(_ssrRenderComponent(_component_SectionsHome1Slider, null, null, _parent))\n  _push(_ssrRenderComponent(_component_SectionsHome1About, null, null, _parent))\n  _push(_ssrRenderComponent(_component_SectionsHome1Room, null, null, _parent))\n  _push(_ssrRenderComponent(_component_SectionsHome1Services, null, null, _parent))\n  _push(_ssrRenderComponent(_component_SectionsHome1Video, null, null, _parent))\n  _push(_ssrRenderComponent(_component_SectionsHome1Features, null, null, _parent))\n  _push(_ssrRenderComponent(_component_SectionsHome1Testimonial, null, null, _parent))\n  _push(_ssrRenderComponent(_component_SectionsHome1Pricing, null, null, _parent))\n  _push(_ssrRenderComponent(_component_SectionsHome1Team, null, null, _parent))\n  _push(_ssrRenderComponent(_component_SectionsHome1Booking, null, null, _parent))\n  _push(_ssrRenderComponent(_component_SectionsHome1News, null, null, _parent))\n  _push(`<!--]-->`)\n}\n\n\nimport { useSSRContext as __vite_useSSRContext } from 'vue'\nconst _sfc_setup = _sfc_main.setup\n_sfc_main.setup = (props, ctx) => {\n  const ssrContext = __vite_useSSRContext()\n  ;(ssrContext.modules || (ssrContext.modules = new Set())).add(\"pages/index.vue\")\n  return _sfc_setup ? _sfc_setup(props, ctx) : undefined\n}\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['ssrRender',_sfc_ssrRender]])",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal",
+      "sourcemaps": {
+        "version": 3,
+        "sources": [
+          "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/pages/index.vue"
+        ],
+        "names": [],
+        "mappings": ";;;;;;;;;;;;;;;;EAAA;EAAA,MAAA;EAAA,MAAA;EAAA,MAAA;EAAA,MAAA;EAAA,MAAA;EAAA,MAAA;EAAA,MAAA;EAAA,MAAA;EAAA,MAAA;EAAA,MAAA;EAAA,MAAA;EAAA",
+        "sourcesContent": [
+          "<template>\r\n  <SectionsHome1Slider/>\r\n  <SectionsHome1About/>\r\n  <SectionsHome1Room/>\r\n  <SectionsHome1Services/>\r\n  <SectionsHome1Video/>\r\n  <SectionsHome1Features/>\r\n  <SectionsHome1Testimonial/>\r\n  <SectionsHome1Pricing/>\r\n  <SectionsHome1Team/>\r\n  <SectionsHome1Booking/>\r\n  <SectionsHome1News/>\r\n</template>"
+        ]
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980279106,
+      "end": 1744980279106,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980279106,
+      "end": 1744980279107,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980279106,
+      "end": 1744980279107,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980279107,
+      "end": 1744980279107,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980279107,
+      "end": 1744980279107,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "result": "\nconst __nuxt_page_meta = null\nexport default __nuxt_page_meta\n",
+      "start": 1744980279107,
+      "end": 1744980279107,
+      "order": "post",
+      "sourcemaps": {
+        "version": 3,
+        "sources": [
+          ""
+        ],
+        "names": [],
+        "mappings": "AAAA;AAAA;AAAA;AAAA"
+      }
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "result": "\nconst __nuxt_page_meta = null\nexport default __nuxt_page_meta\n",
+      "start": 1744980279107,
+      "end": 1744980279107,
+      "order": "post",
+      "sourcemaps": {
+        "version": 3,
+        "sources": [
+          ""
+        ],
+        "names": [],
+        "mappings": "AAAA;AAAA;AAAA;AAAA"
+      }
+    },
+    {
+      "name": "nuxt:tree-shake-template",
+      "start": 1744980279107,
+      "end": 1744980279107,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1744980279107,
+      "end": 1744980279107,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1744980279107,
+      "end": 1744980279107,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1744980279107,
+      "end": 1744980279107,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1744980279107,
+      "end": 1744980279107,
+      "order": "normal"
+    }
+  ]
+}

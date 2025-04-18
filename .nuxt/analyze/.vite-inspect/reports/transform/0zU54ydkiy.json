@@ -1,0 +1,215 @@
+{
+  "resolvedId": "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/components/sections/home1/Pricing.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\r\n  <section class=\"pricing-section\">\r\n    <div class=\"auto-container\">\r\n      <div class=\"sec-title text-center wow fadeInUp\">\r\n        <span class=\"sub-title\">Hoexr best menus</span>\r\n        <h2>Specialities Foods</h2>\r\n      </div>\r\n      <div class=\"row wow slideInUp\">\r\n        <!-- pricing-block -->\r\n        <div class=\"pricing-block col-lg-6 col-md-6 col-sm-12\">\r\n          <div class=\"inner-box\">\r\n            <figure class=\"thumb overlay-anim\"><NuxtLink to=\"page-pricing\"><img src=\"/images/resource/pricing1-1.png\" alt=\"\"></NuxtLink></figure>\r\n            <div class=\"content-box\">\r\n              <span class=\"designation\">Lorem Ipsum is that it smt</span>\r\n              <h6 class=\"title\">Pasta With Fish<span>$39</span></h6>\r\n            </div>\r\n            <span class=\"food-pack\">starter</span>\r\n          </div>\r\n        </div>\r\n        <!-- pricing-block -->\r\n        <div class=\"pricing-block col-lg-6 col-md-6 col-sm-12\">\r\n          <div class=\"inner-box\">\r\n            <figure class=\"thumb overlay-anim\"><NuxtLink to=\"page-pricing\"><img src=\"/images/resource/pricing1-2.png\" alt=\"\"></NuxtLink></figure>\r\n            <div class=\"content-box\">\r\n              <span class=\"designation\">Lorem Ipsum is that it smt</span>\r\n              <h6 class=\"title\">Noodles<span>$16</span></h6>\r\n            </div>\r\n            <span class=\"food-pack\">new</span>\r\n          </div>\r\n        </div>\r\n        <!-- pricing-block -->\r\n        <div class=\"pricing-block col-lg-6 col-md-6 col-sm-12\">\r\n          <div class=\"inner-box\">\r\n            <figure class=\"thumb overlay-anim\"><NuxtLink to=\"page-pricing\"><img src=\"/images/resource/pricing1-3.png\" alt=\"\"></NuxtLink></figure>\r\n            <div class=\"content-box\">\r\n              <span class=\"designation\">Lorem Ipsum is that it smt</span>\r\n              <h6 class=\"title\">Fresh Meat<span>$26</span></h6>\r\n            </div>\r\n            <span class=\"food-pack\">new</span>\r\n          </div>\r\n        </div>\r\n        <!-- pricing-block -->\r\n        <div class=\"pricing-block col-lg-6 col-md-6 col-sm-12\">\r\n          <div class=\"inner-box\">\r\n            <figure class=\"thumb overlay-anim\"><NuxtLink to=\"page-pricing\"><img src=\"/images/resource/pricing1-4.png\" alt=\"\"></NuxtLink></figure>\r\n            <div class=\"content-box\">\r\n              <span class=\"designation\">Lorem Ipsum is that it smt</span>\r\n              <h6 class=\"title\">Chicken<span>$19</span></h6>\r\n            </div>\r\n            <span class=\"food-pack\">vegan</span>\r\n          </div>\r\n        </div>\r\n        <!-- pricing-block -->\r\n        <div class=\"pricing-block col-lg-6 col-md-6 col-sm-12\">\r\n          <div class=\"inner-box\">\r\n            <figure class=\"thumb overlay-anim\"><NuxtLink to=\"page-pricing\"><img src=\"/images/resource/pricing1-5.png\" alt=\"\"></NuxtLink></figure>\r\n            <div class=\"content-box\">\r\n              <span class=\"designation\">Lorem Ipsum is that it smt</span>\r\n              <h6 class=\"title\">Spaghetti<span>$37</span></h6>\r\n            </div>\r\n            <span class=\"food-pack\">new</span>\r\n          </div>\r\n        </div>\r\n        <!-- pricing-block -->\r\n        <div class=\"pricing-block col-lg-6 col-md-6 col-sm-12\">\r\n          <div class=\"inner-box\">\r\n            <figure class=\"thumb overlay-anim\"><NuxtLink to=\"page-pricing\"><img src=\"/images/resource/pricing1-6.png\" alt=\"\"></NuxtLink></figure>\r\n            <div class=\"content-box\">\r\n                <span class=\"designation\">Lorem Ipsum is that it smt</span>\r\n                <h6 class=\"title\">Vegetarian Fried<span>$34</span></h6>\r\n            </div>\r\n            <span class=\"food-pack\">new</span>\r\n          </div>\r\n        </div>\r\n        <!-- pricing-block -->\r\n        <div class=\"pricing-block col-lg-6 col-md-6 col-sm-12\">\r\n          <div class=\"inner-box\">\r\n            <figure class=\"thumb overlay-anim\"><NuxtLink to=\"page-pricing\"><img src=\"/images/resource/pricing1-7.png\" alt=\"\"></NuxtLink></figure>\r\n            <div class=\"content-box\">\r\n              <span class=\"designation\">Lorem Ipsum is that it smt</span>\r\n              <h6 class=\"title\">Vegetarian Soup<span>$42</span></h6>\r\n            </div>\r\n            <span class=\"food-pack\">glutan free</span>\r\n          </div>\r\n        </div>\r\n        <!-- pricing-block -->\r\n        <div class=\"pricing-block col-lg-6 col-md-6 col-sm-12\">\r\n          <div class=\"inner-box\">\r\n            <figure class=\"thumb overlay-anim\"><NuxtLink to=\"page-pricing\"><img src=\"/images/resource/pricing1-8.png\" alt=\"\"></NuxtLink></figure>\r\n            <div class=\"content-box\">\r\n                <span class=\"designation\">Lorem Ipsum is that it smt</span>\r\n                <h6 class=\"title\">Salmon Pasta<span>$71</span></h6>\r\n            </div>\r\n            <span class=\"food-pack\">fish</span>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n</template>",
+      "start": 1744980271350,
+      "end": 1744980271417,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980271417,
+      "end": 1744980271417,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980271417,
+      "end": 1744980271417,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1744980271417,
+      "end": 1744980271417,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1744980271417,
+      "end": 1744980271417,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1744980271417,
+      "end": 1744980271417,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1744980271417,
+      "end": 1744980271417,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1744980271417,
+      "end": 1744980271417,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "const _sfc_main = {}\nimport { createElementVNode as _createElementVNode, resolveComponent as _resolveComponent, withCtx as _withCtx, createVNode as _createVNode, createTextVNode as _createTextVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\nimport _imports_0 from '/images/resource/pricing1-1.png'\nimport _imports_1 from '/images/resource/pricing1-2.png'\nimport _imports_2 from '/images/resource/pricing1-3.png'\nimport _imports_3 from '/images/resource/pricing1-4.png'\nimport _imports_4 from '/images/resource/pricing1-5.png'\nimport _imports_5 from '/images/resource/pricing1-6.png'\nimport _imports_6 from '/images/resource/pricing1-7.png'\nimport _imports_7 from '/images/resource/pricing1-8.png'\n\n\nconst _hoisted_1 = { class: \"pricing-section\" }\nconst _hoisted_2 = { class: \"auto-container\" }\nconst _hoisted_3 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title text-center wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title\" }, \"Hoexr best menus\"),\n  /*#__PURE__*/_createElementVNode(\"h2\", null, \"Specialities Foods\")\n], -1)\nconst _hoisted_4 = { class: \"row wow slideInUp\" }\nconst _hoisted_5 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_6 = { class: \"inner-box\" }\nconst _hoisted_7 = { class: \"thumb overlay-anim\" }\nconst _hoisted_8 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_0,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_9 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Pasta With Fish\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$39\")\n  ])\n], -1)\nconst _hoisted_10 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"starter\", -1)\nconst _hoisted_11 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_12 = { class: \"inner-box\" }\nconst _hoisted_13 = { class: \"thumb overlay-anim\" }\nconst _hoisted_14 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_1,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_15 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Noodles\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$16\")\n  ])\n], -1)\nconst _hoisted_16 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"new\", -1)\nconst _hoisted_17 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_18 = { class: \"inner-box\" }\nconst _hoisted_19 = { class: \"thumb overlay-anim\" }\nconst _hoisted_20 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_2,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_21 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Fresh Meat\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$26\")\n  ])\n], -1)\nconst _hoisted_22 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"new\", -1)\nconst _hoisted_23 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_24 = { class: \"inner-box\" }\nconst _hoisted_25 = { class: \"thumb overlay-anim\" }\nconst _hoisted_26 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_3,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_27 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Chicken\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$19\")\n  ])\n], -1)\nconst _hoisted_28 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"vegan\", -1)\nconst _hoisted_29 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_30 = { class: \"inner-box\" }\nconst _hoisted_31 = { class: \"thumb overlay-anim\" }\nconst _hoisted_32 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_4,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_33 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Spaghetti\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$37\")\n  ])\n], -1)\nconst _hoisted_34 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"new\", -1)\nconst _hoisted_35 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_36 = { class: \"inner-box\" }\nconst _hoisted_37 = { class: \"thumb overlay-anim\" }\nconst _hoisted_38 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_5,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_39 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Vegetarian Fried\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$34\")\n  ])\n], -1)\nconst _hoisted_40 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"new\", -1)\nconst _hoisted_41 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_42 = { class: \"inner-box\" }\nconst _hoisted_43 = { class: \"thumb overlay-anim\" }\nconst _hoisted_44 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_6,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_45 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Vegetarian Soup\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$42\")\n  ])\n], -1)\nconst _hoisted_46 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"glutan free\", -1)\nconst _hoisted_47 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_48 = { class: \"inner-box\" }\nconst _hoisted_49 = { class: \"thumb overlay-anim\" }\nconst _hoisted_50 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_7,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_51 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Salmon Pasta\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$71\")\n  ])\n], -1)\nconst _hoisted_52 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"fish\", -1)\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_NuxtLink = _resolveComponent(\"NuxtLink\")\n\n  return (_openBlock(), _createElementBlock(\"section\", _hoisted_1, [\n    _createElementVNode(\"div\", _hoisted_2, [\n      _hoisted_3,\n      _createElementVNode(\"div\", _hoisted_4, [\n        _createElementVNode(\"div\", _hoisted_5, [\n          _createElementVNode(\"div\", _hoisted_6, [\n            _createElementVNode(\"figure\", _hoisted_7, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_8\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_9,\n            _hoisted_10\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_11, [\n          _createElementVNode(\"div\", _hoisted_12, [\n            _createElementVNode(\"figure\", _hoisted_13, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_14\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_15,\n            _hoisted_16\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_17, [\n          _createElementVNode(\"div\", _hoisted_18, [\n            _createElementVNode(\"figure\", _hoisted_19, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_20\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_21,\n            _hoisted_22\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_23, [\n          _createElementVNode(\"div\", _hoisted_24, [\n            _createElementVNode(\"figure\", _hoisted_25, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_26\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_27,\n            _hoisted_28\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_29, [\n          _createElementVNode(\"div\", _hoisted_30, [\n            _createElementVNode(\"figure\", _hoisted_31, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_32\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_33,\n            _hoisted_34\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_35, [\n          _createElementVNode(\"div\", _hoisted_36, [\n            _createElementVNode(\"figure\", _hoisted_37, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_38\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_39,\n            _hoisted_40\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_41, [\n          _createElementVNode(\"div\", _hoisted_42, [\n            _createElementVNode(\"figure\", _hoisted_43, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_44\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_45,\n            _hoisted_46\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_47, [\n          _createElementVNode(\"div\", _hoisted_48, [\n            _createElementVNode(\"figure\", _hoisted_49, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_50\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_51,\n            _hoisted_52\n          ])\n        ])\n      ])\n    ])\n  ]))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271417,
+      "end": 1744980271418,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980271418,
+      "end": 1744980271418,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980271418,
+      "end": 1744980271419,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980271419,
+      "end": 1744980271419,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1744980271419,
+      "end": 1744980271419,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1744980271419,
+      "end": 1744980271419,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1744980271419,
+      "end": 1744980271419,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "result": "import { default as __nuxt_component_0 } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/node_modules/nuxt/dist/app/components/nuxt-link\";\nconst _sfc_main = {}\nimport { createElementVNode as _createElementVNode, resolveComponent as _resolveComponent, withCtx as _withCtx, createVNode as _createVNode, createTextVNode as _createTextVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\nimport _imports_0 from '/images/resource/pricing1-1.png'\nimport _imports_1 from '/images/resource/pricing1-2.png'\nimport _imports_2 from '/images/resource/pricing1-3.png'\nimport _imports_3 from '/images/resource/pricing1-4.png'\nimport _imports_4 from '/images/resource/pricing1-5.png'\nimport _imports_5 from '/images/resource/pricing1-6.png'\nimport _imports_6 from '/images/resource/pricing1-7.png'\nimport _imports_7 from '/images/resource/pricing1-8.png'\n\n\nconst _hoisted_1 = { class: \"pricing-section\" }\nconst _hoisted_2 = { class: \"auto-container\" }\nconst _hoisted_3 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title text-center wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title\" }, \"Hoexr best menus\"),\n  /*#__PURE__*/_createElementVNode(\"h2\", null, \"Specialities Foods\")\n], -1)\nconst _hoisted_4 = { class: \"row wow slideInUp\" }\nconst _hoisted_5 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_6 = { class: \"inner-box\" }\nconst _hoisted_7 = { class: \"thumb overlay-anim\" }\nconst _hoisted_8 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_0,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_9 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Pasta With Fish\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$39\")\n  ])\n], -1)\nconst _hoisted_10 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"starter\", -1)\nconst _hoisted_11 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_12 = { class: \"inner-box\" }\nconst _hoisted_13 = { class: \"thumb overlay-anim\" }\nconst _hoisted_14 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_1,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_15 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Noodles\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$16\")\n  ])\n], -1)\nconst _hoisted_16 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"new\", -1)\nconst _hoisted_17 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_18 = { class: \"inner-box\" }\nconst _hoisted_19 = { class: \"thumb overlay-anim\" }\nconst _hoisted_20 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_2,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_21 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Fresh Meat\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$26\")\n  ])\n], -1)\nconst _hoisted_22 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"new\", -1)\nconst _hoisted_23 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_24 = { class: \"inner-box\" }\nconst _hoisted_25 = { class: \"thumb overlay-anim\" }\nconst _hoisted_26 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_3,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_27 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Chicken\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$19\")\n  ])\n], -1)\nconst _hoisted_28 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"vegan\", -1)\nconst _hoisted_29 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_30 = { class: \"inner-box\" }\nconst _hoisted_31 = { class: \"thumb overlay-anim\" }\nconst _hoisted_32 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_4,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_33 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Spaghetti\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$37\")\n  ])\n], -1)\nconst _hoisted_34 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"new\", -1)\nconst _hoisted_35 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_36 = { class: \"inner-box\" }\nconst _hoisted_37 = { class: \"thumb overlay-anim\" }\nconst _hoisted_38 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_5,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_39 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Vegetarian Fried\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$34\")\n  ])\n], -1)\nconst _hoisted_40 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"new\", -1)\nconst _hoisted_41 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_42 = { class: \"inner-box\" }\nconst _hoisted_43 = { class: \"thumb overlay-anim\" }\nconst _hoisted_44 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_6,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_45 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Vegetarian Soup\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$42\")\n  ])\n], -1)\nconst _hoisted_46 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"glutan free\", -1)\nconst _hoisted_47 = { class: \"pricing-block col-lg-6 col-md-6 col-sm-12\" }\nconst _hoisted_48 = { class: \"inner-box\" }\nconst _hoisted_49 = { class: \"thumb overlay-anim\" }\nconst _hoisted_50 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_7,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_51 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-box\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"designation\" }, \"Lorem Ipsum is that it smt\"),\n  /*#__PURE__*/_createElementVNode(\"h6\", { class: \"title\" }, [\n    /*#__PURE__*/_createTextVNode(\"Salmon Pasta\"),\n    /*#__PURE__*/_createElementVNode(\"span\", null, \"$71\")\n  ])\n], -1)\nconst _hoisted_52 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"food-pack\" }, \"fish\", -1)\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_NuxtLink = __nuxt_component_0\n\n  return (_openBlock(), _createElementBlock(\"section\", _hoisted_1, [\n    _createElementVNode(\"div\", _hoisted_2, [\n      _hoisted_3,\n      _createElementVNode(\"div\", _hoisted_4, [\n        _createElementVNode(\"div\", _hoisted_5, [\n          _createElementVNode(\"div\", _hoisted_6, [\n            _createElementVNode(\"figure\", _hoisted_7, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_8\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_9,\n            _hoisted_10\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_11, [\n          _createElementVNode(\"div\", _hoisted_12, [\n            _createElementVNode(\"figure\", _hoisted_13, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_14\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_15,\n            _hoisted_16\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_17, [\n          _createElementVNode(\"div\", _hoisted_18, [\n            _createElementVNode(\"figure\", _hoisted_19, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_20\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_21,\n            _hoisted_22\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_23, [\n          _createElementVNode(\"div\", _hoisted_24, [\n            _createElementVNode(\"figure\", _hoisted_25, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_26\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_27,\n            _hoisted_28\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_29, [\n          _createElementVNode(\"div\", _hoisted_30, [\n            _createElementVNode(\"figure\", _hoisted_31, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_32\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_33,\n            _hoisted_34\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_35, [\n          _createElementVNode(\"div\", _hoisted_36, [\n            _createElementVNode(\"figure\", _hoisted_37, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_38\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_39,\n            _hoisted_40\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_41, [\n          _createElementVNode(\"div\", _hoisted_42, [\n            _createElementVNode(\"figure\", _hoisted_43, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_44\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_45,\n            _hoisted_46\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_47, [\n          _createElementVNode(\"div\", _hoisted_48, [\n            _createElementVNode(\"figure\", _hoisted_49, [\n              _createVNode(_component_NuxtLink, { to: \"page-pricing\" }, {\n                default: _withCtx(() => [\n                  _hoisted_50\n                ]),\n                _: 1\n              })\n            ]),\n            _hoisted_51,\n            _hoisted_52\n          ])\n        ])\n      ])\n    ])\n  ]))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271419,
+      "end": 1744980271419,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1744980271419,
+      "end": 1744980271419,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1744980271419,
+      "end": 1744980271419,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1744980271419,
+      "end": 1744980271419,
+      "order": "normal"
+    }
+  ]
+}

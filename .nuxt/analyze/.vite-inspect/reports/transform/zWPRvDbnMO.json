@@ -1,0 +1,215 @@
+{
+  "resolvedId": "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/components/sections/home1/Services.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\r\n  <!-- service-section -->\r\n  <section class=\"service-section\">\r\n    <div class=\"auto-container\">\r\n      <div class=\"sec-title text-center wow slideInUp\">\r\n        <span class=\"sub-title\">Hoexr SERVICES</span>\r\n        <h2>Hotel Facilities</h2>\r\n      </div>\r\n      <div class=\"row\">\r\n        <!-- service-block -->\r\n        <div class=\"service-block col-lg-4 col-md-6 col-sm-12\">\r\n          <div class=\"inner-box wow fadeIn\" data-wow-delay=\"100ms\">\r\n            <div class=\"icon-box wow fadeInUp\"><i class=\"flaticon-bed-2\"></i></div>\r\n            <div class=\"content-box\">\r\n              <h4 class=\"title\"><NuxtLink to=\"page-service-details\">Room Service</NuxtLink></h4>\r\n              <div class=\"text\">Orci varius natoque penatibus magnis ders disney parturient ridiculus</div>\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <!-- service-block -->\r\n        <div class=\"service-block col-lg-4 col-md-6 col-sm-12\">\r\n          <div class=\"inner-box wow fadeIn\" data-wow-delay=\"200ms\">\r\n            <div class=\"icon-box wow fadeInUp\"><i class=\"flaticon-travel\"></i></div>\r\n            <div class=\"content-box\">\r\n              <h4 class=\"title\"><NuxtLink to=\"page-service-details\">Pick Up & Drop</NuxtLink></h4>\r\n              <div class=\"text\">Orci varius natoque penatibus magnis ders disney parturient ridiculus</div>\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <!-- service-block -->\r\n        <div class=\"service-block col-lg-4 col-md-6 col-sm-12\">\r\n          <div class=\"inner-box wow fadeIn\" data-wow-delay=\"300ms\">\r\n            <div class=\"icon-box wow fadeInUp\"><i class=\"flaticon-wifi\"></i></div>\r\n            <div class=\"content-box\">\r\n              <h4 class=\"title\"><NuxtLink to=\"page-service-details\">Fibre Internet</NuxtLink></h4>\r\n              <div class=\"text\">Orci varius natoque penatibus magnis ders disney parturient ridiculus</div>\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <!-- service-block -->\r\n        <div class=\"service-block col-lg-4 col-md-6 col-sm-12\">\r\n          <div class=\"inner-box wow fadeIn\" data-wow-delay=\"400ms\">\r\n            <div class=\"icon-box wow fadeInUp\"><i class=\"flaticon-breakfast\"></i></div>\r\n            <div class=\"content-box\">\r\n              <h4 class=\"title\"><NuxtLink to=\"page-service-details\">Breakfast</NuxtLink></h4>\r\n              <div class=\"text\">Orci varius natoque penatibus magnis ders disney parturient ridiculus</div>\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <!-- service-block -->\r\n        <div class=\"service-block col-lg-4 col-md-6 col-sm-12\">\r\n          <div class=\"inner-box wow fadeIn\" data-wow-delay=\"500ms\">\r\n            <div class=\"icon-box wow fadeInUp\"><i class=\"flaticon-swimming-pool\"></i></div>\r\n            <div class=\"content-box\">\r\n              <h4 class=\"title\"><NuxtLink to=\"page-service-details\">Swimming Pool</NuxtLink></h4>\r\n              <div class=\"text\">Orci varius natoque penatibus magnis ders disney parturient ridiculus</div>\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <!-- service-block -->\r\n        <div class=\"service-block col-lg-4 col-md-6 col-sm-12\">\r\n          <div class=\"inner-box wow fadeIn\" data-wow-delay=\"600ms\">\r\n            <div class=\"icon-box wow fadeInUp\"><i class=\"flaticon-car\"></i></div>\r\n            <div class=\"content-box\">\r\n              <h4 class=\"title\"><NuxtLink to=\"page-service-details\">Parking Space</NuxtLink></h4>\r\n              <div class=\"text\">Orci varius natoque penatibus magnis ders disney parturient ridiculus</div>\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n  <!-- End service-section -->\r\n</template>",
+      "start": 1744980271349,
+      "end": 1744980271404,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "const _sfc_main = {}\nimport { createElementVNode as _createElementVNode, createTextVNode as _createTextVNode, resolveComponent as _resolveComponent, withCtx as _withCtx, createVNode as _createVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\n\nconst _hoisted_1 = { class: \"service-section\" }\nconst _hoisted_2 = { class: \"auto-container\" }\nconst _hoisted_3 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title text-center wow slideInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title\" }, \"Hoexr SERVICES\"),\n  /*#__PURE__*/_createElementVNode(\"h2\", null, \"Hotel Facilities\")\n], -1)\nconst _hoisted_4 = { class: \"row\" }\nconst _hoisted_5 = { class: \"service-block col-lg-4 col-md-6 col-sm-12\" }\nconst _hoisted_6 = {\n  class: \"inner-box wow fadeIn\",\n  \"data-wow-delay\": \"100ms\"\n}\nconst _hoisted_7 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon-box wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"i\", { class: \"flaticon-bed-2\" })\n], -1)\nconst _hoisted_8 = { class: \"content-box\" }\nconst _hoisted_9 = { class: \"title\" }\nconst _hoisted_10 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, \"Orci varius natoque penatibus magnis ders disney parturient ridiculus\", -1)\nconst _hoisted_11 = { class: \"service-block col-lg-4 col-md-6 col-sm-12\" }\nconst _hoisted_12 = {\n  class: \"inner-box wow fadeIn\",\n  \"data-wow-delay\": \"200ms\"\n}\nconst _hoisted_13 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon-box wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"i\", { class: \"flaticon-travel\" })\n], -1)\nconst _hoisted_14 = { class: \"content-box\" }\nconst _hoisted_15 = { class: \"title\" }\nconst _hoisted_16 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, \"Orci varius natoque penatibus magnis ders disney parturient ridiculus\", -1)\nconst _hoisted_17 = { class: \"service-block col-lg-4 col-md-6 col-sm-12\" }\nconst _hoisted_18 = {\n  class: \"inner-box wow fadeIn\",\n  \"data-wow-delay\": \"300ms\"\n}\nconst _hoisted_19 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon-box wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"i\", { class: \"flaticon-wifi\" })\n], -1)\nconst _hoisted_20 = { class: \"content-box\" }\nconst _hoisted_21 = { class: \"title\" }\nconst _hoisted_22 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, \"Orci varius natoque penatibus magnis ders disney parturient ridiculus\", -1)\nconst _hoisted_23 = { class: \"service-block col-lg-4 col-md-6 col-sm-12\" }\nconst _hoisted_24 = {\n  class: \"inner-box wow fadeIn\",\n  \"data-wow-delay\": \"400ms\"\n}\nconst _hoisted_25 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon-box wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"i\", { class: \"flaticon-breakfast\" })\n], -1)\nconst _hoisted_26 = { class: \"content-box\" }\nconst _hoisted_27 = { class: \"title\" }\nconst _hoisted_28 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, \"Orci varius natoque penatibus magnis ders disney parturient ridiculus\", -1)\nconst _hoisted_29 = { class: \"service-block col-lg-4 col-md-6 col-sm-12\" }\nconst _hoisted_30 = {\n  class: \"inner-box wow fadeIn\",\n  \"data-wow-delay\": \"500ms\"\n}\nconst _hoisted_31 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon-box wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"i\", { class: \"flaticon-swimming-pool\" })\n], -1)\nconst _hoisted_32 = { class: \"content-box\" }\nconst _hoisted_33 = { class: \"title\" }\nconst _hoisted_34 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, \"Orci varius natoque penatibus magnis ders disney parturient ridiculus\", -1)\nconst _hoisted_35 = { class: \"service-block col-lg-4 col-md-6 col-sm-12\" }\nconst _hoisted_36 = {\n  class: \"inner-box wow fadeIn\",\n  \"data-wow-delay\": \"600ms\"\n}\nconst _hoisted_37 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon-box wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"i\", { class: \"flaticon-car\" })\n], -1)\nconst _hoisted_38 = { class: \"content-box\" }\nconst _hoisted_39 = { class: \"title\" }\nconst _hoisted_40 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, \"Orci varius natoque penatibus magnis ders disney parturient ridiculus\", -1)\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_NuxtLink = _resolveComponent(\"NuxtLink\")\n\n  return (_openBlock(), _createElementBlock(\"section\", _hoisted_1, [\n    _createElementVNode(\"div\", _hoisted_2, [\n      _hoisted_3,\n      _createElementVNode(\"div\", _hoisted_4, [\n        _createElementVNode(\"div\", _hoisted_5, [\n          _createElementVNode(\"div\", _hoisted_6, [\n            _hoisted_7,\n            _createElementVNode(\"div\", _hoisted_8, [\n              _createElementVNode(\"h4\", _hoisted_9, [\n                _createVNode(_component_NuxtLink, { to: \"page-service-details\" }, {\n                  default: _withCtx(() => [\n                    _createTextVNode(\"Room Service\")\n                  ]),\n                  _: 1\n                })\n              ]),\n              _hoisted_10\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_11, [\n          _createElementVNode(\"div\", _hoisted_12, [\n            _hoisted_13,\n            _createElementVNode(\"div\", _hoisted_14, [\n              _createElementVNode(\"h4\", _hoisted_15, [\n                _createVNode(_component_NuxtLink, { to: \"page-service-details\" }, {\n                  default: _withCtx(() => [\n                    _createTextVNode(\"Pick Up & Drop\")\n                  ]),\n                  _: 1\n                })\n              ]),\n              _hoisted_16\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_17, [\n          _createElementVNode(\"div\", _hoisted_18, [\n            _hoisted_19,\n            _createElementVNode(\"div\", _hoisted_20, [\n              _createElementVNode(\"h4\", _hoisted_21, [\n                _createVNode(_component_NuxtLink, { to: \"page-service-details\" }, {\n                  default: _withCtx(() => [\n                    _createTextVNode(\"Fibre Internet\")\n                  ]),\n                  _: 1\n                })\n              ]),\n              _hoisted_22\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_23, [\n          _createElementVNode(\"div\", _hoisted_24, [\n            _hoisted_25,\n            _createElementVNode(\"div\", _hoisted_26, [\n              _createElementVNode(\"h4\", _hoisted_27, [\n                _createVNode(_component_NuxtLink, { to: \"page-service-details\" }, {\n                  default: _withCtx(() => [\n                    _createTextVNode(\"Breakfast\")\n                  ]),\n                  _: 1\n                })\n              ]),\n              _hoisted_28\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_29, [\n          _createElementVNode(\"div\", _hoisted_30, [\n            _hoisted_31,\n            _createElementVNode(\"div\", _hoisted_32, [\n              _createElementVNode(\"h4\", _hoisted_33, [\n                _createVNode(_component_NuxtLink, { to: \"page-service-details\" }, {\n                  default: _withCtx(() => [\n                    _createTextVNode(\"Swimming Pool\")\n                  ]),\n                  _: 1\n                })\n              ]),\n              _hoisted_34\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_35, [\n          _createElementVNode(\"div\", _hoisted_36, [\n            _hoisted_37,\n            _createElementVNode(\"div\", _hoisted_38, [\n              _createElementVNode(\"h4\", _hoisted_39, [\n                _createVNode(_component_NuxtLink, { to: \"page-service-details\" }, {\n                  default: _withCtx(() => [\n                    _createTextVNode(\"Parking Space\")\n                  ]),\n                  _: 1\n                })\n              ]),\n              _hoisted_40\n            ])\n          ])\n        ])\n      ])\n    ])\n  ]))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980271404,
+      "end": 1744980271404,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980271404,
+      "end": 1744980271405,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980271405,
+      "end": 1744980271405,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1744980271405,
+      "end": 1744980271406,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1744980271406,
+      "end": 1744980271406,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1744980271406,
+      "end": 1744980271406,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "result": "import { default as __nuxt_component_0 } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/node_modules/nuxt/dist/app/components/nuxt-link\";\nconst _sfc_main = {}\nimport { createElementVNode as _createElementVNode, createTextVNode as _createTextVNode, resolveComponent as _resolveComponent, withCtx as _withCtx, createVNode as _createVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\n\nconst _hoisted_1 = { class: \"service-section\" }\nconst _hoisted_2 = { class: \"auto-container\" }\nconst _hoisted_3 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title text-center wow slideInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title\" }, \"Hoexr SERVICES\"),\n  /*#__PURE__*/_createElementVNode(\"h2\", null, \"Hotel Facilities\")\n], -1)\nconst _hoisted_4 = { class: \"row\" }\nconst _hoisted_5 = { class: \"service-block col-lg-4 col-md-6 col-sm-12\" }\nconst _hoisted_6 = {\n  class: \"inner-box wow fadeIn\",\n  \"data-wow-delay\": \"100ms\"\n}\nconst _hoisted_7 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon-box wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"i\", { class: \"flaticon-bed-2\" })\n], -1)\nconst _hoisted_8 = { class: \"content-box\" }\nconst _hoisted_9 = { class: \"title\" }\nconst _hoisted_10 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, \"Orci varius natoque penatibus magnis ders disney parturient ridiculus\", -1)\nconst _hoisted_11 = { class: \"service-block col-lg-4 col-md-6 col-sm-12\" }\nconst _hoisted_12 = {\n  class: \"inner-box wow fadeIn\",\n  \"data-wow-delay\": \"200ms\"\n}\nconst _hoisted_13 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon-box wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"i\", { class: \"flaticon-travel\" })\n], -1)\nconst _hoisted_14 = { class: \"content-box\" }\nconst _hoisted_15 = { class: \"title\" }\nconst _hoisted_16 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, \"Orci varius natoque penatibus magnis ders disney parturient ridiculus\", -1)\nconst _hoisted_17 = { class: \"service-block col-lg-4 col-md-6 col-sm-12\" }\nconst _hoisted_18 = {\n  class: \"inner-box wow fadeIn\",\n  \"data-wow-delay\": \"300ms\"\n}\nconst _hoisted_19 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon-box wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"i\", { class: \"flaticon-wifi\" })\n], -1)\nconst _hoisted_20 = { class: \"content-box\" }\nconst _hoisted_21 = { class: \"title\" }\nconst _hoisted_22 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, \"Orci varius natoque penatibus magnis ders disney parturient ridiculus\", -1)\nconst _hoisted_23 = { class: \"service-block col-lg-4 col-md-6 col-sm-12\" }\nconst _hoisted_24 = {\n  class: \"inner-box wow fadeIn\",\n  \"data-wow-delay\": \"400ms\"\n}\nconst _hoisted_25 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon-box wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"i\", { class: \"flaticon-breakfast\" })\n], -1)\nconst _hoisted_26 = { class: \"content-box\" }\nconst _hoisted_27 = { class: \"title\" }\nconst _hoisted_28 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, \"Orci varius natoque penatibus magnis ders disney parturient ridiculus\", -1)\nconst _hoisted_29 = { class: \"service-block col-lg-4 col-md-6 col-sm-12\" }\nconst _hoisted_30 = {\n  class: \"inner-box wow fadeIn\",\n  \"data-wow-delay\": \"500ms\"\n}\nconst _hoisted_31 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon-box wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"i\", { class: \"flaticon-swimming-pool\" })\n], -1)\nconst _hoisted_32 = { class: \"content-box\" }\nconst _hoisted_33 = { class: \"title\" }\nconst _hoisted_34 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, \"Orci varius natoque penatibus magnis ders disney parturient ridiculus\", -1)\nconst _hoisted_35 = { class: \"service-block col-lg-4 col-md-6 col-sm-12\" }\nconst _hoisted_36 = {\n  class: \"inner-box wow fadeIn\",\n  \"data-wow-delay\": \"600ms\"\n}\nconst _hoisted_37 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"icon-box wow fadeInUp\" }, [\n  /*#__PURE__*/_createElementVNode(\"i\", { class: \"flaticon-car\" })\n], -1)\nconst _hoisted_38 = { class: \"content-box\" }\nconst _hoisted_39 = { class: \"title\" }\nconst _hoisted_40 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"text\" }, \"Orci varius natoque penatibus magnis ders disney parturient ridiculus\", -1)\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_NuxtLink = __nuxt_component_0\n\n  return (_openBlock(), _createElementBlock(\"section\", _hoisted_1, [\n    _createElementVNode(\"div\", _hoisted_2, [\n      _hoisted_3,\n      _createElementVNode(\"div\", _hoisted_4, [\n        _createElementVNode(\"div\", _hoisted_5, [\n          _createElementVNode(\"div\", _hoisted_6, [\n            _hoisted_7,\n            _createElementVNode(\"div\", _hoisted_8, [\n              _createElementVNode(\"h4\", _hoisted_9, [\n                _createVNode(_component_NuxtLink, { to: \"page-service-details\" }, {\n                  default: _withCtx(() => [\n                    _createTextVNode(\"Room Service\")\n                  ]),\n                  _: 1\n                })\n              ]),\n              _hoisted_10\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_11, [\n          _createElementVNode(\"div\", _hoisted_12, [\n            _hoisted_13,\n            _createElementVNode(\"div\", _hoisted_14, [\n              _createElementVNode(\"h4\", _hoisted_15, [\n                _createVNode(_component_NuxtLink, { to: \"page-service-details\" }, {\n                  default: _withCtx(() => [\n                    _createTextVNode(\"Pick Up & Drop\")\n                  ]),\n                  _: 1\n                })\n              ]),\n              _hoisted_16\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_17, [\n          _createElementVNode(\"div\", _hoisted_18, [\n            _hoisted_19,\n            _createElementVNode(\"div\", _hoisted_20, [\n              _createElementVNode(\"h4\", _hoisted_21, [\n                _createVNode(_component_NuxtLink, { to: \"page-service-details\" }, {\n                  default: _withCtx(() => [\n                    _createTextVNode(\"Fibre Internet\")\n                  ]),\n                  _: 1\n                })\n              ]),\n              _hoisted_22\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_23, [\n          _createElementVNode(\"div\", _hoisted_24, [\n            _hoisted_25,\n            _createElementVNode(\"div\", _hoisted_26, [\n              _createElementVNode(\"h4\", _hoisted_27, [\n                _createVNode(_component_NuxtLink, { to: \"page-service-details\" }, {\n                  default: _withCtx(() => [\n                    _createTextVNode(\"Breakfast\")\n                  ]),\n                  _: 1\n                })\n              ]),\n              _hoisted_28\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_29, [\n          _createElementVNode(\"div\", _hoisted_30, [\n            _hoisted_31,\n            _createElementVNode(\"div\", _hoisted_32, [\n              _createElementVNode(\"h4\", _hoisted_33, [\n                _createVNode(_component_NuxtLink, { to: \"page-service-details\" }, {\n                  default: _withCtx(() => [\n                    _createTextVNode(\"Swimming Pool\")\n                  ]),\n                  _: 1\n                })\n              ]),\n              _hoisted_34\n            ])\n          ])\n        ]),\n        _createElementVNode(\"div\", _hoisted_35, [\n          _createElementVNode(\"div\", _hoisted_36, [\n            _hoisted_37,\n            _createElementVNode(\"div\", _hoisted_38, [\n              _createElementVNode(\"h4\", _hoisted_39, [\n                _createVNode(_component_NuxtLink, { to: \"page-service-details\" }, {\n                  default: _withCtx(() => [\n                    _createTextVNode(\"Parking Space\")\n                  ]),\n                  _: 1\n                })\n              ]),\n              _hoisted_40\n            ])\n          ])\n        ])\n      ])\n    ])\n  ]))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271406,
+      "end": 1744980271406,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1744980271406,
+      "end": 1744980271406,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1744980271406,
+      "end": 1744980271406,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1744980271406,
+      "end": 1744980271406,
+      "order": "normal"
+    }
+  ]
+}

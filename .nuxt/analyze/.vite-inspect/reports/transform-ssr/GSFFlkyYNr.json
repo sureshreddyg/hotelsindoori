@@ -1,0 +1,258 @@
+{
+  "resolvedId": "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/components/sections/home1/Booking.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\r\n  <section class=\"booking-section\">\r\n    <div class=\"auto-container\">\r\n      <div class=\"row\">\r\n        <div class=\"col-lg-6 booking-form-column wow fadeInUp\">\r\n          <div class=\"inner-column\">\r\n            <div class=\"sec-title\">\r\n              <span class=\"sub-title\">ROOMS & SUITES</span>\r\n              <h2>Hotel Booking </h2>\r\n            </div>\r\n            <form class=\"bk-form\">\r\n              <div class=\"frm-field\">\r\n                <input type=\"text\" name=\"check-in\" class=\"date-pick\" placeholder=\"Check in\" />\r\n                <img src=\"/images/icons/mail.png\" alt=\"\" />\r\n              </div>\r\n              <div class=\"frm-field\">\r\n                <input type=\"text\" name=\"check-in\" class=\"date-pick\" placeholder=\"Check out\" />\r\n                <img src=\"/images/icons/mail.png\" alt=\"\" />\r\n              </div>\r\n              <div class=\"frm-field\">\r\n                <select>\r\n                  <option>Adult</option>\r\n                  <option>Adult</option>\r\n                  <option>Adult</option>\r\n                  <option>Adult</option>\r\n                </select>\r\n                <i class=\"fa fa-angle-down\"></i>\r\n              </div>\r\n              <div class=\"frm-field\">\r\n                <select>\r\n                  <option>Children</option>\r\n                  <option>Children</option>\r\n                  <option>Children</option>\r\n                  <option>Children</option>\r\n                </select>\r\n                <i class=\"fa fa-angle-down\"></i>\r\n              </div>\r\n              <div class=\"form-submit\">\r\n                <button type=\"submit\">Check Availability</button>\r\n              </div>\r\n            </form>\r\n          </div>\r\n        </div>\r\n        <div class=\"col-lg-6 booking-content-column wow fadeInRight\" data-wow-delay=\"200ms\">\r\n          <div class=\"inner-column\">\r\n            <div class=\"sec-title white\">\r\n              <span class=\"sub-title\">Hoexr HOTEL</span>\r\n              <h2>Check Availability </h2>\r\n            </div>\r\n            <p>Each of our guest rooms feature a private bath, wi-fi, cable television and include full breakfast.</p>\r\n            <p>Mea nibh meis philosophia eu. Duis legimus efficiantur ea sea. Id placerat tacimates definitionem sea, prima quidam vim no. Duo nobis persecuti cu.</p>\r\n            <div class=\"contact-info\">\r\n              <div class=\"icon-box\"><i class=\"flaticon-customer-service\"></i></div>\r\n              <span>Booking Now</span>\r\n              <h4 class=\"title\">956 220 6666</h4>\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n</template>",
+      "start": 1744980279236,
+      "end": 1744980279346,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "const _sfc_main = {}\nimport { mergeProps as _mergeProps } from \"vue\"\nimport { ssrRenderAttr as _ssrRenderAttr, ssrRenderAttrs as _ssrRenderAttrs } from \"vue/server-renderer\"\nimport _imports_0 from '/images/icons/mail.png'\n\n\nfunction _sfc_ssrRender(_ctx, _push, _parent, _attrs) {\n  _push(`<section${\n    _ssrRenderAttrs(_mergeProps({ class: \"booking-section\" }, _attrs))\n  }><div class=\"auto-container\"><div class=\"row\"><div class=\"col-lg-6 booking-form-column wow fadeInUp\"><div class=\"inner-column\"><div class=\"sec-title\"><span class=\"sub-title\">ROOMS &amp; SUITES</span><h2>Hotel Booking </h2></div><form class=\"bk-form\"><div class=\"frm-field\"><input type=\"text\" name=\"check-in\" class=\"date-pick\" placeholder=\"Check in\"><img${\n    _ssrRenderAttr(\"src\", _imports_0)\n  } alt=\"\"></div><div class=\"frm-field\"><input type=\"text\" name=\"check-in\" class=\"date-pick\" placeholder=\"Check out\"><img${\n    _ssrRenderAttr(\"src\", _imports_0)\n  } alt=\"\"></div><div class=\"frm-field\"><select><option>Adult</option><option>Adult</option><option>Adult</option><option>Adult</option></select><i class=\"fa fa-angle-down\"></i></div><div class=\"frm-field\"><select><option>Children</option><option>Children</option><option>Children</option><option>Children</option></select><i class=\"fa fa-angle-down\"></i></div><div class=\"form-submit\"><button type=\"submit\">Check Availability</button></div></form></div></div><div class=\"col-lg-6 booking-content-column wow fadeInRight\" data-wow-delay=\"200ms\"><div class=\"inner-column\"><div class=\"sec-title white\"><span class=\"sub-title\">Hoexr HOTEL</span><h2>Check Availability </h2></div><p>Each of our guest rooms feature a private bath, wi-fi, cable television and include full breakfast.</p><p>Mea nibh meis philosophia eu. Duis legimus efficiantur ea sea. Id placerat tacimates definitionem sea, prima quidam vim no. Duo nobis persecuti cu.</p><div class=\"contact-info\"><div class=\"icon-box\"><i class=\"flaticon-customer-service\"></i></div><span>Booking Now</span><h4 class=\"title\">956 220 6666</h4></div></div></div></div></div></section>`)\n}\n\n\nimport { useSSRContext as __vite_useSSRContext } from 'vue'\nconst _sfc_setup = _sfc_main.setup\n_sfc_main.setup = (props, ctx) => {\n  const ssrContext = __vite_useSSRContext()\n  ;(ssrContext.modules || (ssrContext.modules = new Set())).add(\"components/sections/home1/Booking.vue\")\n  return _sfc_setup ? _sfc_setup(props, ctx) : undefined\n}\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['ssrRender',_sfc_ssrRender]])",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "normal",
+      "sourcemaps": {
+        "version": 3,
+        "sources": [
+          "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/components/sections/home1/Booking.vue"
+        ],
+        "names": [],
+        "mappings": ";;OAaqB,UAA4B;;;;EAbjD;IAAA,gBAAA,cACW,KAAK,EAAC,iBAAiB,IADlC;;IAAA,eAaqB,KAA4B,EAA5B,UAA4B;;IAbjD,eAiBqB,KAA4B,EAJ5B,UAA4B",
+        "sourcesContent": [
+          "<template>\r\n  <section class=\"booking-section\">\r\n    <div class=\"auto-container\">\r\n      <div class=\"row\">\r\n        <div class=\"col-lg-6 booking-form-column wow fadeInUp\">\r\n          <div class=\"inner-column\">\r\n            <div class=\"sec-title\">\r\n              <span class=\"sub-title\">ROOMS & SUITES</span>\r\n              <h2>Hotel Booking </h2>\r\n            </div>\r\n            <form class=\"bk-form\">\r\n              <div class=\"frm-field\">\r\n                <input type=\"text\" name=\"check-in\" class=\"date-pick\" placeholder=\"Check in\" />\r\n                <img src=\"/images/icons/mail.png\" alt=\"\" />\r\n              </div>\r\n              <div class=\"frm-field\">\r\n                <input type=\"text\" name=\"check-in\" class=\"date-pick\" placeholder=\"Check out\" />\r\n                <img src=\"/images/icons/mail.png\" alt=\"\" />\r\n              </div>\r\n              <div class=\"frm-field\">\r\n                <select>\r\n                  <option>Adult</option>\r\n                  <option>Adult</option>\r\n                  <option>Adult</option>\r\n                  <option>Adult</option>\r\n                </select>\r\n                <i class=\"fa fa-angle-down\"></i>\r\n              </div>\r\n              <div class=\"frm-field\">\r\n                <select>\r\n                  <option>Children</option>\r\n                  <option>Children</option>\r\n                  <option>Children</option>\r\n                  <option>Children</option>\r\n                </select>\r\n                <i class=\"fa fa-angle-down\"></i>\r\n              </div>\r\n              <div class=\"form-submit\">\r\n                <button type=\"submit\">Check Availability</button>\r\n              </div>\r\n            </form>\r\n          </div>\r\n        </div>\r\n        <div class=\"col-lg-6 booking-content-column wow fadeInRight\" data-wow-delay=\"200ms\">\r\n          <div class=\"inner-column\">\r\n            <div class=\"sec-title white\">\r\n              <span class=\"sub-title\">Hoexr HOTEL</span>\r\n              <h2>Check Availability </h2>\r\n            </div>\r\n            <p>Each of our guest rooms feature a private bath, wi-fi, cable television and include full breakfast.</p>\r\n            <p>Mea nibh meis philosophia eu. Duis legimus efficiantur ea sea. Id placerat tacimates definitionem sea, prima quidam vim no. Duo nobis persecuti cu.</p>\r\n            <div class=\"contact-info\">\r\n              <div class=\"icon-box\"><i class=\"flaticon-customer-service\"></i></div>\r\n              <span>Booking Now</span>\r\n              <h4 class=\"title\">956 220 6666</h4>\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n</template>"
+        ]
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980279346,
+      "end": 1744980279346,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1744980279346,
+      "end": 1744980279347,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-template",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1744980279347,
+      "end": 1744980279347,
+      "order": "normal"
+    }
+  ]
+}

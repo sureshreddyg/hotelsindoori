@@ -1,0 +1,215 @@
+{
+  "resolvedId": "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/components/sections/home1/Video.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\r\n  <!-- video-section -->\r\n  <section class=\"video-section\">\r\n    <div class=\"bg bg-image\" style=\"background-image: url(images/background/1.jpg);\"></div>\r\n    <div class=\"auto-container\">\r\n      <div class=\"row\">\r\n        <div class=\"content-column col-lg-9 col-md-12 col-sm-12\">\r\n          <div class=\"inner-column\">\r\n            <div class=\"sec-title-two light wow slideInUp\">\r\n              <span class=\"sub-title\">Promotional Video</span>\r\n              <h2> Book Hotal Rooms, <br>et Deals & Book Flights Online.</h2>\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <div class=\"btn-column col-lg-3 col-md-12 col-sm-12\">\r\n          <div class=\"inner-column\">\r\n              <NuxtLink @click=\"openVideo\" class=\"play-now-two\" data-fancybox=\"gallery\" data-caption=\"\">\r\n                <img src=\"/images/icons/play.png\" alt=\"\" />\r\n                <span class=\"ripple\"></span>\r\n              </NuxtLink>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n  <!-- End video section -->\r\n  <modal-video :channel=\"videoChannel\" :videoId=\"videoId\" v-model:isOpen=\"videoIsOpen\" />\r\n</template>\r\n<script>\r\nimport ModalVideo from '../../components/elements/ModalVideo.vue'\r\nexport default {\r\n  components: {\r\n      ModalVideo\r\n  },\r\n  data: () => {\r\n      return {\r\n          videoIsOpen: false\r\n      }\r\n  },\r\n  methods: {\r\n      openVideo() {\r\n          this.videoIsOpen = !this.videoIsOpen\r\n      }\r\n  },\r\n  computed: {\r\n      videoChannel: function () {\r\n          //Logic to extract based on URL\r\n          return 'youtube'\r\n      },\r\n      videoId: function () {\r\n          //Logic to extract based on URL\r\n          return 'QiqQoqtnHrk'\r\n      }\r\n  }\r\n}\r\n</script>",
+      "start": 1744980271349,
+      "end": 1744980271406,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980271406,
+      "end": 1744980271406,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980271406,
+      "end": 1744980271406,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1744980271406,
+      "end": 1744980271406,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1744980271406,
+      "end": 1744980271406,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1744980271406,
+      "end": 1744980271406,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1744980271406,
+      "end": 1744980271406,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1744980271406,
+      "end": 1744980271406,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "\r\nimport ModalVideo from '../../components/elements/ModalVideo.vue'\r\nconst _sfc_main = {\r\n  components: {\r\n      ModalVideo\r\n  },\r\n  data: () => {\r\n      return {\r\n          videoIsOpen: false\r\n      }\r\n  },\r\n  methods: {\r\n      openVideo() {\r\n          this.videoIsOpen = !this.videoIsOpen\r\n      }\r\n  },\r\n  computed: {\r\n      videoChannel: function () {\r\n          //Logic to extract based on URL\r\n          return 'youtube'\r\n      },\r\n      videoId: function () {\r\n          //Logic to extract based on URL\r\n          return 'QiqQoqtnHrk'\r\n      }\r\n  }\r\n}\r\n\nimport { createElementVNode as _createElementVNode, createTextVNode as _createTextVNode, resolveComponent as _resolveComponent, withCtx as _withCtx, createVNode as _createVNode, Fragment as _Fragment, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\nimport _imports_0 from '/images/icons/play.png'\n\n\nconst _hoisted_1 = { class: \"video-section\" }\nconst _hoisted_2 = /*#__PURE__*/_createElementVNode(\"div\", {\n  class: \"bg bg-image\",\n  style: {\"background-image\":\"url(images/background/1.jpg)\"}\n}, null, -1)\nconst _hoisted_3 = { class: \"auto-container\" }\nconst _hoisted_4 = { class: \"row\" }\nconst _hoisted_5 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-column col-lg-9 col-md-12 col-sm-12\" }, [\n  /*#__PURE__*/_createElementVNode(\"div\", { class: \"inner-column\" }, [\n    /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title-two light wow slideInUp\" }, [\n      /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title\" }, \"Promotional Video\"),\n      /*#__PURE__*/_createElementVNode(\"h2\", null, [\n        /*#__PURE__*/_createTextVNode(\" Book Hotal Rooms, \"),\n        /*#__PURE__*/_createElementVNode(\"br\"),\n        /*#__PURE__*/_createTextVNode(\"et Deals & Book Flights Online.\")\n      ])\n    ])\n  ])\n], -1)\nconst _hoisted_6 = { class: \"btn-column col-lg-3 col-md-12 col-sm-12\" }\nconst _hoisted_7 = { class: \"inner-column\" }\nconst _hoisted_8 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_0,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_9 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"ripple\" }, null, -1)\n\nfunction _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {\n  const _component_NuxtLink = _resolveComponent(\"NuxtLink\")\n  const _component_modal_video = _resolveComponent(\"modal-video\")\n\n  return (_openBlock(), _createElementBlock(_Fragment, null, [\n    _createElementVNode(\"section\", _hoisted_1, [\n      _hoisted_2,\n      _createElementVNode(\"div\", _hoisted_3, [\n        _createElementVNode(\"div\", _hoisted_4, [\n          _hoisted_5,\n          _createElementVNode(\"div\", _hoisted_6, [\n            _createElementVNode(\"div\", _hoisted_7, [\n              _createVNode(_component_NuxtLink, {\n                onClick: $options.openVideo,\n                class: \"play-now-two\",\n                \"data-fancybox\": \"gallery\",\n                \"data-caption\": \"\"\n              }, {\n                default: _withCtx(() => [\n                  _hoisted_8,\n                  _hoisted_9\n                ]),\n                _: 1\n              }, 8, [\"onClick\"])\n            ])\n          ])\n        ])\n      ])\n    ]),\n    _createVNode(_component_modal_video, {\n      channel: $options.videoChannel,\n      videoId: $options.videoId,\n      isOpen: _ctx.videoIsOpen,\n      \"onUpdate:isOpen\": _cache[0] || (_cache[0] = $event => ((_ctx.videoIsOpen) = $event))\n    }, null, 8, [\"channel\", \"videoId\", \"isOpen\"])\n  ], 64))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271406,
+      "end": 1744980271407,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980271407,
+      "end": 1744980271407,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980271407,
+      "end": 1744980271408,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980271408,
+      "end": 1744980271408,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1744980271408,
+      "end": 1744980271408,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1744980271408,
+      "end": 1744980271408,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1744980271408,
+      "end": 1744980271408,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "result": "import { default as __nuxt_component_0 } from \"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/node_modules/nuxt/dist/app/components/nuxt-link\";\n\r\nimport ModalVideo from '../../components/elements/ModalVideo.vue'\r\nconst _sfc_main = {\r\n  components: {\r\n      ModalVideo\r\n  },\r\n  data: () => {\r\n      return {\r\n          videoIsOpen: false\r\n      }\r\n  },\r\n  methods: {\r\n      openVideo() {\r\n          this.videoIsOpen = !this.videoIsOpen\r\n      }\r\n  },\r\n  computed: {\r\n      videoChannel: function () {\r\n          //Logic to extract based on URL\r\n          return 'youtube'\r\n      },\r\n      videoId: function () {\r\n          //Logic to extract based on URL\r\n          return 'QiqQoqtnHrk'\r\n      }\r\n  }\r\n}\r\n\nimport { createElementVNode as _createElementVNode, createTextVNode as _createTextVNode, resolveComponent as _resolveComponent, withCtx as _withCtx, createVNode as _createVNode, Fragment as _Fragment, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\nimport _imports_0 from '/images/icons/play.png'\n\n\nconst _hoisted_1 = { class: \"video-section\" }\nconst _hoisted_2 = /*#__PURE__*/_createElementVNode(\"div\", {\n  class: \"bg bg-image\",\n  style: {\"background-image\":\"url(images/background/1.jpg)\"}\n}, null, -1)\nconst _hoisted_3 = { class: \"auto-container\" }\nconst _hoisted_4 = { class: \"row\" }\nconst _hoisted_5 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"content-column col-lg-9 col-md-12 col-sm-12\" }, [\n  /*#__PURE__*/_createElementVNode(\"div\", { class: \"inner-column\" }, [\n    /*#__PURE__*/_createElementVNode(\"div\", { class: \"sec-title-two light wow slideInUp\" }, [\n      /*#__PURE__*/_createElementVNode(\"span\", { class: \"sub-title\" }, \"Promotional Video\"),\n      /*#__PURE__*/_createElementVNode(\"h2\", null, [\n        /*#__PURE__*/_createTextVNode(\" Book Hotal Rooms, \"),\n        /*#__PURE__*/_createElementVNode(\"br\"),\n        /*#__PURE__*/_createTextVNode(\"et Deals & Book Flights Online.\")\n      ])\n    ])\n  ])\n], -1)\nconst _hoisted_6 = { class: \"btn-column col-lg-3 col-md-12 col-sm-12\" }\nconst _hoisted_7 = { class: \"inner-column\" }\nconst _hoisted_8 = /*#__PURE__*/_createElementVNode(\"img\", {\n  src: _imports_0,\n  alt: \"\"\n}, null, -1)\nconst _hoisted_9 = /*#__PURE__*/_createElementVNode(\"span\", { class: \"ripple\" }, null, -1)\n\nfunction _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {\n  const _component_NuxtLink = __nuxt_component_0\n  const _component_modal_video = _resolveComponent(\"modal-video\")\n\n  return (_openBlock(), _createElementBlock(_Fragment, null, [\n    _createElementVNode(\"section\", _hoisted_1, [\n      _hoisted_2,\n      _createElementVNode(\"div\", _hoisted_3, [\n        _createElementVNode(\"div\", _hoisted_4, [\n          _hoisted_5,\n          _createElementVNode(\"div\", _hoisted_6, [\n            _createElementVNode(\"div\", _hoisted_7, [\n              _createVNode(_component_NuxtLink, {\n                onClick: $options.openVideo,\n                class: \"play-now-two\",\n                \"data-fancybox\": \"gallery\",\n                \"data-caption\": \"\"\n              }, {\n                default: _withCtx(() => [\n                  _hoisted_8,\n                  _hoisted_9\n                ]),\n                _: 1\n              }, 8, [\"onClick\"])\n            ])\n          ])\n        ])\n      ])\n    ]),\n    _createVNode(_component_modal_video, {\n      channel: $options.videoChannel,\n      videoId: $options.videoId,\n      isOpen: _ctx.videoIsOpen,\n      \"onUpdate:isOpen\": _cache[0] || (_cache[0] = $event => ((_ctx.videoIsOpen) = $event))\n    }, null, 8, [\"channel\", \"videoId\", \"isOpen\"])\n  ], 64))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1744980271408,
+      "end": 1744980271408,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1744980271408,
+      "end": 1744980271408,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1744980271408,
+      "end": 1744980271408,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1744980271408,
+      "end": 1744980271408,
+      "order": "normal"
+    }
+  ]
+}

@@ -4,7 +4,9 @@ import type { Defu } from 'defu'
 
 
 declare const inlineConfig = {
-  "nuxt": {}
+  "nuxt": {
+    "buildId": "f0b87361-3a29-4f5d-8861-164ad38aa87b"
+  }
 }
 type ResolvedAppConfig = Defu<typeof inlineConfig, []>
 type IsAny<T> = 0 extends 1 & T ? true : false

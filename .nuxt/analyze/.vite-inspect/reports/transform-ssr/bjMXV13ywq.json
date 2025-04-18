@@ -1,0 +1,260 @@
+{
+  "resolvedId": "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/components/sections/innerpages/Contact.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\r\n\r\n\t<!--Contact Details Start-->\r\n\t<section class=\"contact-details\">\r\n\t\t<div class=\"container \">\r\n\t\t\t<div class=\"row\">\r\n\t\t\t\t<div class=\"col-xl-7 col-lg-6\">\r\n\t\t\t\t\t<div class=\"sec-title\">\r\n\t\t\t\t\t\t<span class=\"sub-title before-none\">Send us email</span>\r\n\t\t\t\t\t\t<h2>Feel free to write</h2>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<!-- Contact Form -->\r\n\t\t\t\t\t<form id=\"contact_form\" name=\"contact_form\" class=\"\" action=\"#\" method=\"post\">\r\n\t\t\t\t\t\t<div class=\"row\">\r\n\t\t\t\t\t\t\t<div class=\"col-sm-6\">\r\n\t\t\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t\t\t<input name=\"form_name\" class=\"form-control\" type=\"text\" placeholder=\"Enter Name\">\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class=\"col-sm-6\">\r\n\t\t\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t\t\t<input name=\"form_email\" class=\"form-control required email\" type=\"email\" placeholder=\"Enter Email\">\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"row\">\r\n\t\t\t\t\t\t\t<div class=\"col-sm-6\">\r\n\t\t\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t\t\t<input name=\"form_subject\" class=\"form-control required\" type=\"text\" placeholder=\"Enter Subject\">\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class=\"col-sm-6\">\r\n\t\t\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t\t\t<input name=\"form_phone\" class=\"form-control\" type=\"text\" placeholder=\"Enter Phone\">\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t<textarea name=\"form_message\" class=\"form-control required\" rows=\"7\" placeholder=\"Enter Message\"></textarea>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"mb-5\">\r\n\t\t\t\t\t\t\t<input name=\"form_botcheck\" class=\"form-control\" type=\"hidden\" value=\"\" />\r\n\t\t\t\t\t\t\t<button type=\"submit\" class=\"theme-btn btn-style-one me-1\" data-loading-text=\"Please wait...\"><span class=\"btn-title\">Send message</span></button>\r\n\t\t\t\t\t\t\t<button type=\"reset\" class=\"theme-btn btn-style-one bg-theme-color5\"><span class=\"btn-title\">Reset</span></button>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</form>\r\n\t\t\t\t\t<!-- Contact Form Validation-->\r\n\t\t\t\t</div>\r\n\t\t\t\t<div class=\"col-xl-5 col-lg-6\">\r\n\t\t\t\t\t<div class=\"contact-details__right\">\r\n\t\t\t\t\t\t<div class=\"sec-title\">\r\n\t\t\t\t\t\t\t<span class=\"sub-title before-none\">Need any help?</span>\r\n\t\t\t\t\t\t\t<h2>Get in touch with us</h2>\r\n\t\t\t\t\t\t\t<div class=\"text\">Lorem ipsum is simply free text available dolor sit amet consectetur notted adipisicing elit sed do eiusmod tempor incididunt simply dolore magna.</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<ul class=\"list-unstyled contact-details__info\">\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<div class=\"icon\">\r\n\t\t\t\t\t\t\t\t\t<span class=\"lnr-icon-phone-plus\"></span>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t<div class=\"text\">\r\n\t\t\t\t\t\t\t\t\t<h6>Have any question?</h6>\r\n\t\t\t\t\t\t\t\t\t<a href=\"tel:980089850\"><span>Free</span> +92 (020)-9850</a>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<div class=\"icon\">\r\n\t\t\t\t\t\t\t\t\t<span class=\"lnr-icon-envelope1\"></span>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t<div class=\"text\">\r\n\t\t\t\t\t\t\t\t\t<h6>Write email</h6>\r\n\t\t\t\t\t\t\t\t\t<a href=\"mailto:needhelp@company.com\">needhelp@company.com</a>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<div class=\"icon\">\r\n\t\t\t\t\t\t\t\t\t<span class=\"lnr-icon-location\"></span>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t<div class=\"text\">\r\n\t\t\t\t\t\t\t\t\t<h6>Visit anytime</h6>\r\n\t\t\t\t\t\t\t\t\t<span>66 broklyn golden street. New York</span>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</section>\r\n\t<!--Contact Details End-->\r\n\r\n\t<!-- Map Section-->\r\n\t<section class=\"map-section\">\r\n\t\t<iframe  class=\"map w-100\"  src=\"https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed\"></iframe>\r\n\t</section>\r\n\t<!--End Map Section-->\r\n</template>",
+      "start": 1744980279266,
+      "end": 1744980279371,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980279371,
+      "end": 1744980279371,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1744980279371,
+      "end": 1744980279371,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980279371,
+      "end": 1744980279371,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1744980279371,
+      "end": 1744980279371,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1744980279371,
+      "end": 1744980279371,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1744980279371,
+      "end": 1744980279371,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1744980279371,
+      "end": 1744980279371,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1744980279371,
+      "end": 1744980279371,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1744980279371,
+      "end": 1744980279371,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "const _sfc_main = {}\n\nfunction _sfc_ssrRender(_ctx, _push, _parent, _attrs) {\n  _push(`<!--[--><section class=\"contact-details\"><div class=\"container\"><div class=\"row\"><div class=\"col-xl-7 col-lg-6\"><div class=\"sec-title\"><span class=\"sub-title before-none\">Send us email</span><h2>Feel free to write</h2></div><form id=\"contact_form\" name=\"contact_form\" class=\"\" action=\"#\" method=\"post\"><div class=\"row\"><div class=\"col-sm-6\"><div class=\"mb-3\"><input name=\"form_name\" class=\"form-control\" type=\"text\" placeholder=\"Enter Name\"></div></div><div class=\"col-sm-6\"><div class=\"mb-3\"><input name=\"form_email\" class=\"form-control required email\" type=\"email\" placeholder=\"Enter Email\"></div></div></div><div class=\"row\"><div class=\"col-sm-6\"><div class=\"mb-3\"><input name=\"form_subject\" class=\"form-control required\" type=\"text\" placeholder=\"Enter Subject\"></div></div><div class=\"col-sm-6\"><div class=\"mb-3\"><input name=\"form_phone\" class=\"form-control\" type=\"text\" placeholder=\"Enter Phone\"></div></div></div><div class=\"mb-3\"><textarea name=\"form_message\" class=\"form-control required\" rows=\"7\" placeholder=\"Enter Message\"></textarea></div><div class=\"mb-5\"><input name=\"form_botcheck\" class=\"form-control\" type=\"hidden\" value=\"\"><button type=\"submit\" class=\"theme-btn btn-style-one me-1\" data-loading-text=\"Please wait...\"><span class=\"btn-title\">Send message</span></button><button type=\"reset\" class=\"theme-btn btn-style-one bg-theme-color5\"><span class=\"btn-title\">Reset</span></button></div></form></div><div class=\"col-xl-5 col-lg-6\"><div class=\"contact-details__right\"><div class=\"sec-title\"><span class=\"sub-title before-none\">Need any help?</span><h2>Get in touch with us</h2><div class=\"text\">Lorem ipsum is simply free text available dolor sit amet consectetur notted adipisicing elit sed do eiusmod tempor incididunt simply dolore magna.</div></div><ul class=\"list-unstyled contact-details__info\"><li><div class=\"icon\"><span class=\"lnr-icon-phone-plus\"></span></div><div class=\"text\"><h6>Have any question?</h6><a href=\"tel:980089850\"><span>Free</span> +92 (020)-9850</a></div></li><li><div class=\"icon\"><span class=\"lnr-icon-envelope1\"></span></div><div class=\"text\"><h6>Write email</h6><a href=\"mailto:needhelp@company.com\">needhelp@company.com</a></div></li><li><div class=\"icon\"><span class=\"lnr-icon-location\"></span></div><div class=\"text\"><h6>Visit anytime</h6><span>66 broklyn golden street. New York</span></div></li></ul></div></div></div></div></section><section class=\"map-section\"><iframe class=\"map w-100\" src=\"https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed\"></iframe></section><!--]-->`)\n}\n\n\nimport { useSSRContext as __vite_useSSRContext } from 'vue'\nconst _sfc_setup = _sfc_main.setup\n_sfc_main.setup = (props, ctx) => {\n  const ssrContext = __vite_useSSRContext()\n  ;(ssrContext.modules || (ssrContext.modules = new Set())).add(\"components/sections/innerpages/Contact.vue\")\n  return _sfc_setup ? _sfc_setup(props, ctx) : undefined\n}\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['ssrRender',_sfc_ssrRender]])",
+      "start": 1744980279371,
+      "end": 1744980279372,
+      "order": "normal",
+      "sourcemaps": {
+        "version": 3,
+        "sources": [
+          "/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/components/sections/innerpages/Contact.vue"
+        ],
+        "names": [],
+        "mappings": ";;EAAA",
+        "sourcesContent": [
+          "<template>\r\n\r\n\t<!--Contact Details Start-->\r\n\t<section class=\"contact-details\">\r\n\t\t<div class=\"container \">\r\n\t\t\t<div class=\"row\">\r\n\t\t\t\t<div class=\"col-xl-7 col-lg-6\">\r\n\t\t\t\t\t<div class=\"sec-title\">\r\n\t\t\t\t\t\t<span class=\"sub-title before-none\">Send us email</span>\r\n\t\t\t\t\t\t<h2>Feel free to write</h2>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<!-- Contact Form -->\r\n\t\t\t\t\t<form id=\"contact_form\" name=\"contact_form\" class=\"\" action=\"#\" method=\"post\">\r\n\t\t\t\t\t\t<div class=\"row\">\r\n\t\t\t\t\t\t\t<div class=\"col-sm-6\">\r\n\t\t\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t\t\t<input name=\"form_name\" class=\"form-control\" type=\"text\" placeholder=\"Enter Name\">\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class=\"col-sm-6\">\r\n\t\t\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t\t\t<input name=\"form_email\" class=\"form-control required email\" type=\"email\" placeholder=\"Enter Email\">\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"row\">\r\n\t\t\t\t\t\t\t<div class=\"col-sm-6\">\r\n\t\t\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t\t\t<input name=\"form_subject\" class=\"form-control required\" type=\"text\" placeholder=\"Enter Subject\">\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class=\"col-sm-6\">\r\n\t\t\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t\t\t<input name=\"form_phone\" class=\"form-control\" type=\"text\" placeholder=\"Enter Phone\">\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"mb-3\">\r\n\t\t\t\t\t\t\t<textarea name=\"form_message\" class=\"form-control required\" rows=\"7\" placeholder=\"Enter Message\"></textarea>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"mb-5\">\r\n\t\t\t\t\t\t\t<input name=\"form_botcheck\" class=\"form-control\" type=\"hidden\" value=\"\" />\r\n\t\t\t\t\t\t\t<button type=\"submit\" class=\"theme-btn btn-style-one me-1\" data-loading-text=\"Please wait...\"><span class=\"btn-title\">Send message</span></button>\r\n\t\t\t\t\t\t\t<button type=\"reset\" class=\"theme-btn btn-style-one bg-theme-color5\"><span class=\"btn-title\">Reset</span></button>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</form>\r\n\t\t\t\t\t<!-- Contact Form Validation-->\r\n\t\t\t\t</div>\r\n\t\t\t\t<div class=\"col-xl-5 col-lg-6\">\r\n\t\t\t\t\t<div class=\"contact-details__right\">\r\n\t\t\t\t\t\t<div class=\"sec-title\">\r\n\t\t\t\t\t\t\t<span class=\"sub-title before-none\">Need any help?</span>\r\n\t\t\t\t\t\t\t<h2>Get in touch with us</h2>\r\n\t\t\t\t\t\t\t<div class=\"text\">Lorem ipsum is simply free text available dolor sit amet consectetur notted adipisicing elit sed do eiusmod tempor incididunt simply dolore magna.</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<ul class=\"list-unstyled contact-details__info\">\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<div class=\"icon\">\r\n\t\t\t\t\t\t\t\t\t<span class=\"lnr-icon-phone-plus\"></span>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t<div class=\"text\">\r\n\t\t\t\t\t\t\t\t\t<h6>Have any question?</h6>\r\n\t\t\t\t\t\t\t\t\t<a href=\"tel:980089850\"><span>Free</span> +92 (020)-9850</a>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<div class=\"icon\">\r\n\t\t\t\t\t\t\t\t\t<span class=\"lnr-icon-envelope1\"></span>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t<div class=\"text\">\r\n\t\t\t\t\t\t\t\t\t<h6>Write email</h6>\r\n\t\t\t\t\t\t\t\t\t<a href=\"mailto:needhelp@company.com\">needhelp@company.com</a>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<div class=\"icon\">\r\n\t\t\t\t\t\t\t\t\t<span class=\"lnr-icon-location\"></span>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t<div class=\"text\">\r\n\t\t\t\t\t\t\t\t\t<h6>Visit anytime</h6>\r\n\t\t\t\t\t\t\t\t\t<span>66 broklyn golden street. New York</span>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</section>\r\n\t<!--Contact Details End-->\r\n\r\n\t<!-- Map Section-->\r\n\t<section class=\"map-section\">\r\n\t\t<iframe  class=\"map w-100\"  src=\"https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed\"></iframe>\r\n\t</section>\r\n\t<!--End Map Section-->\r\n</template>"
+        ]
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1744980279372,
+      "end": 1744980279372,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980279372,
+      "end": 1744980279372,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980279372,
+      "end": 1744980279372,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980279372,
+      "end": 1744980279372,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1744980279372,
+      "end": 1744980279372,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1744980279372,
+      "end": 1744980279372,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1744980279372,
+      "end": 1744980279372,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1744980279372,
+      "end": 1744980279372,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "result": "const _sfc_main = {};\nfunction _sfc_ssrRender(_ctx, _push, _parent, _attrs) {\n  _push(`<!--[--><section class=\"contact-details\"><div class=\"container\"><div class=\"row\"><div class=\"col-xl-7 col-lg-6\"><div class=\"sec-title\"><span class=\"sub-title before-none\">Send us email</span><h2>Feel free to write</h2></div><form id=\"contact_form\" name=\"contact_form\" class=\"\" action=\"#\" method=\"post\"><div class=\"row\"><div class=\"col-sm-6\"><div class=\"mb-3\"><input name=\"form_name\" class=\"form-control\" type=\"text\" placeholder=\"Enter Name\"></div></div><div class=\"col-sm-6\"><div class=\"mb-3\"><input name=\"form_email\" class=\"form-control required email\" type=\"email\" placeholder=\"Enter Email\"></div></div></div><div class=\"row\"><div class=\"col-sm-6\"><div class=\"mb-3\"><input name=\"form_subject\" class=\"form-control required\" type=\"text\" placeholder=\"Enter Subject\"></div></div><div class=\"col-sm-6\"><div class=\"mb-3\"><input name=\"form_phone\" class=\"form-control\" type=\"text\" placeholder=\"Enter Phone\"></div></div></div><div class=\"mb-3\"><textarea name=\"form_message\" class=\"form-control required\" rows=\"7\" placeholder=\"Enter Message\"></textarea></div><div class=\"mb-5\"><input name=\"form_botcheck\" class=\"form-control\" type=\"hidden\" value=\"\"><button type=\"submit\" class=\"theme-btn btn-style-one me-1\" data-loading-text=\"Please wait...\"><span class=\"btn-title\">Send message</span></button><button type=\"reset\" class=\"theme-btn btn-style-one bg-theme-color5\"><span class=\"btn-title\">Reset</span></button></div></form></div><div class=\"col-xl-5 col-lg-6\"><div class=\"contact-details__right\"><div class=\"sec-title\"><span class=\"sub-title before-none\">Need any help?</span><h2>Get in touch with us</h2><div class=\"text\">Lorem ipsum is simply free text available dolor sit amet consectetur notted adipisicing elit sed do eiusmod tempor incididunt simply dolore magna.</div></div><ul class=\"list-unstyled contact-details__info\"><li><div class=\"icon\"><span class=\"lnr-icon-phone-plus\"></span></div><div class=\"text\"><h6>Have any question?</h6><a href=\"tel:980089850\"><span>Free</span> +92 (020)-9850</a></div></li><li><div class=\"icon\"><span class=\"lnr-icon-envelope1\"></span></div><div class=\"text\"><h6>Write email</h6><a href=\"mailto:needhelp@company.com\">needhelp@company.com</a></div></li><li><div class=\"icon\"><span class=\"lnr-icon-location\"></span></div><div class=\"text\"><h6>Visit anytime</h6><span>66 broklyn golden street. New York</span></div></li></ul></div></div></div></div></section><section class=\"map-section\"><iframe class=\"map w-100\" src=\"https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed\"></iframe></section><!--]-->`);\n}\nimport { useSSRContext as __vite_useSSRContext } from \"vue\";\nconst _sfc_setup = _sfc_main.setup;\n_sfc_main.setup = (props, ctx) => {\n  const ssrContext = __vite_useSSRContext();\n  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add(\"components/sections/innerpages/Contact.vue\");\n  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;\n};\nimport _export_sfc from \"\\0plugin-vue:export-helper\";\nexport default /* @__PURE__ */ _export_sfc(_sfc_main, [[\"ssrRender\", _sfc_ssrRender]]);\n",
+      "start": 1744980279372,
+      "end": 1744980279452,
+      "order": "normal",
+      "sourcemaps": "{\n  \"version\": 3,\n  \"sources\": [\"/Users/aimlabs/Projects/sureshreddyg/hotelsindoori/components/sections/innerpages/Contact.vue\"],\n  \"sourcesContent\": [\"const _sfc_main = {}\\n\\nfunction _sfc_ssrRender(_ctx, _push, _parent, _attrs) {\\n  _push(`<!--[--><section class=\\\"contact-details\\\"><div class=\\\"container\\\"><div class=\\\"row\\\"><div class=\\\"col-xl-7 col-lg-6\\\"><div class=\\\"sec-title\\\"><span class=\\\"sub-title before-none\\\">Send us email</span><h2>Feel free to write</h2></div><form id=\\\"contact_form\\\" name=\\\"contact_form\\\" class=\\\"\\\" action=\\\"#\\\" method=\\\"post\\\"><div class=\\\"row\\\"><div class=\\\"col-sm-6\\\"><div class=\\\"mb-3\\\"><input name=\\\"form_name\\\" class=\\\"form-control\\\" type=\\\"text\\\" placeholder=\\\"Enter Name\\\"></div></div><div class=\\\"col-sm-6\\\"><div class=\\\"mb-3\\\"><input name=\\\"form_email\\\" class=\\\"form-control required email\\\" type=\\\"email\\\" placeholder=\\\"Enter Email\\\"></div></div></div><div class=\\\"row\\\"><div class=\\\"col-sm-6\\\"><div class=\\\"mb-3\\\"><input name=\\\"form_subject\\\" class=\\\"form-control required\\\" type=\\\"text\\\" placeholder=\\\"Enter Subject\\\"></div></div><div class=\\\"col-sm-6\\\"><div class=\\\"mb-3\\\"><input name=\\\"form_phone\\\" class=\\\"form-control\\\" type=\\\"text\\\" placeholder=\\\"Enter Phone\\\"></div></div></div><div class=\\\"mb-3\\\"><textarea name=\\\"form_message\\\" class=\\\"form-control required\\\" rows=\\\"7\\\" placeholder=\\\"Enter Message\\\"></textarea></div><div class=\\\"mb-5\\\"><input name=\\\"form_botcheck\\\" class=\\\"form-control\\\" type=\\\"hidden\\\" value=\\\"\\\"><button type=\\\"submit\\\" class=\\\"theme-btn btn-style-one me-1\\\" data-loading-text=\\\"Please wait...\\\"><span class=\\\"btn-title\\\">Send message</span></button><button type=\\\"reset\\\" class=\\\"theme-btn btn-style-one bg-theme-color5\\\"><span class=\\\"btn-title\\\">Reset</span></button></div></form></div><div class=\\\"col-xl-5 col-lg-6\\\"><div class=\\\"contact-details__right\\\"><div class=\\\"sec-title\\\"><span class=\\\"sub-title before-none\\\">Need any help?</span><h2>Get in touch with us</h2><div class=\\\"text\\\">Lorem ipsum is simply free text available dolor sit amet consectetur notted adipisicing elit sed do eiusmod tempor incididunt simply dolore magna.</div></div><ul class=\\\"list-unstyled contact-details__info\\\"><li><div class=\\\"icon\\\"><span class=\\\"lnr-icon-phone-plus\\\"></span></div><div class=\\\"text\\\"><h6>Have any question?</h6><a href=\\\"tel:980089850\\\"><span>Free</span> +92 (020)-9850</a></div></li><li><div class=\\\"icon\\\"><span class=\\\"lnr-icon-envelope1\\\"></span></div><div class=\\\"text\\\"><h6>Write email</h6><a href=\\\"mailto:needhelp@company.com\\\">needhelp@company.com</a></div></li><li><div class=\\\"icon\\\"><span class=\\\"lnr-icon-location\\\"></span></div><div class=\\\"text\\\"><h6>Visit anytime</h6><span>66 broklyn golden street. New York</span></div></li></ul></div></div></div></div></section><section class=\\\"map-section\\\"><iframe class=\\\"map w-100\\\" src=\\\"https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed\\\"></iframe></section><!--]-->`)\\n}\\n\\n\\nimport { useSSRContext as __vite_useSSRContext } from 'vue'\\nconst _sfc_setup = _sfc_main.setup\\n_sfc_main.setup = (props, ctx) => {\\n  const ssrContext = __vite_useSSRContext()\\n  ;(ssrContext.modules || (ssrContext.modules = new Set())).add(\\\"components/sections/innerpages/Contact.vue\\\")\\n  return _sfc_setup ? _sfc_setup(props, ctx) : undefined\\n}\\nimport _export_sfc from '\\u0000plugin-vue:export-helper'\\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['ssrRender',_sfc_ssrRender]])\"],\n  \"mappings\": \"AAAA,MAAM,YAAY,CAAC;AAEnB,SAAS,eAAe,MAAM,OAAO,SAAS,QAAQ;AACpD,QAAM,inFAAinF;AACznF;AAGA,SAAS,iBAAiB,4BAA4B;AACtD,MAAM,aAAa,UAAU;AAC7B,UAAU,QAAQ,CAAC,OAAO,QAAQ;AAChC,QAAM,aAAa,qBAAqB;AACvC,GAAC,WAAW,YAAY,WAAW,UAAU,oBAAI,IAAI,IAAI,IAAI,4CAA4C;AAC1G,SAAO,aAAa,WAAW,OAAO,GAAG,IAAI;AAC/C;AACA,OAAO,iBAAiB;AACxB,eAA4B,4BAAY,WAAW,CAAC,CAAC,aAAY,cAAc,CAAC,CAAC;\",\n  \"names\": []\n}\n"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-template",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1744980279452,
+      "end": 1744980279452,
+      "order": "normal"
+    }
+  ]
+}
