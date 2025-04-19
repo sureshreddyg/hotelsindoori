@@ -43,10 +43,10 @@ License: copyright commercial
   --theme-color-light: #ffffff;
   --theme-color-dark: #222222;
   --theme-color-gray: #F6F6F6;
-  --theme-color1: #aa8453;
-  --theme-color2: #fdece3;
+  --theme-color1: #E63A29;
+  --theme-color2: #F6B1A1;
   --theme-color3: #faf7f2;
-  --theme-color4: #cab293;
+  --theme-color4: #E63A29;
   --bg-theme-color1: var(--theme-color1);
   --bg-theme-color2: var(--theme-color2);
   --bg-theme-color3: var(--theme-color3);
@@ -3885,7 +3885,7 @@ Section Title
   transition: all 0.5s ease;
 }
 .service-block .inner-box .icon-box i {
-  color: #ab8555;
+  color: #E63A29;
   font-size: 58px;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
