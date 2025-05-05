@@ -4,6 +4,6 @@
     <div>
       <slot />
     </div>
-    <LayoutFooter2 />
+    <LayoutFooter1 />
   </div>
 </template>
