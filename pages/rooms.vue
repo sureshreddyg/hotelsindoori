@@ -122,7 +122,7 @@
           <div class="inner-box large-style wow fadeIn" data-wow-delay="400ms">
             <div class="image-box">
               <figure class="image-2 overlay-anim">
-                <img src="/images/property/suite-room-1.jpg" alt="" />
+                <img src="/images/property/suite-room-3.jpg" alt="" />
               </figure>
             </div>
             <div class="content-box">
