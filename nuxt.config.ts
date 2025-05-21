@@ -5,6 +5,9 @@ export default defineNuxtConfig({
   compatibilityDate: '2025-05-15',
   css: ['~/assets/css/main.css'],
   devtools: { enabled: true },
+  fonts: {
+    provider: 'google',
+  },
   modules: ['@nuxt/eslint', '@nuxt/fonts', '@nuxt/icon', '@nuxt/image'],
   srcDir: 'src/',
   vite: {
