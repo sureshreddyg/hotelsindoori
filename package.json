@@ -11,6 +11,7 @@
     "lint:fix": "eslint . --fix",
     "generate": "nuxt generate",
     "postinstall": "nuxt prepare",
+    "prepare": "husky",
     "preview": "nuxt preview"
   },
   "dependencies": {
@@ -26,6 +27,8 @@
     "@tailwindcss/vite": "^4.1.7",
     "eslint": "^9.0.0",
     "eslint-plugin-perfectionist": "^4.13.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.0.0",
     "prettier": "3.5.3",
     "tailwindcss": "^4.1.7",
     "typescript": "^5.8.3"
