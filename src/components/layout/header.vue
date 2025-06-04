@@ -3,9 +3,11 @@
     <div class="h-20 border-b px-4">
       <div class="mx-auto flex h-full max-w-7xl items-center justify-between">
         <NuxtLink class="flex h-full items-center gap-x-2 py-4" to="/">
+          <!--TODO: Preload image-->
           <NuxtImg
             alt=""
             class="mb-3 h-full w-auto sm:mb-3.5"
+            :preload="true"
             src="/images/logo.png"
           />
           <h1 class="not-sr-only font-serif text-lg sm:text-xl md:sr-only">
