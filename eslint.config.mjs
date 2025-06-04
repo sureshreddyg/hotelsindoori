@@ -3,4 +3,8 @@ import perfectionist from 'eslint-plugin-perfectionist';
 
 import withNuxt from './.nuxt/eslint.config.mjs';
 
-export default withNuxt(perfectionist.configs['recommended-natural']);
+export default withNuxt(perfectionist.configs['recommended-natural'], {
+  rules: {
+    'vue/html-self-closing': 'off',
+  },
+});
