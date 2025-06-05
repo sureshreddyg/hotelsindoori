@@ -39,7 +39,7 @@
                     class="mb-2 h-full max-h-9 w-auto sm:mb-2.5"
                     src="/images/logo.png"
                   />
-                  <div class="font-serif text-base sm:text-lg">
+                  <div class="font-serif text-lg font-normal sm:text-xl">
                     Hotel Sindoori
                   </div>
                 </div>
@@ -56,7 +56,7 @@
               </UiSheetClose>
             </UiSheetHeader>
             <nav>
-              <ul class="flex flex-col text-lg font-black sm:text-xl">
+              <ul class="flex flex-col text-lg font-medium sm:text-xl">
                 <li
                   v-for="link in navigationMenuLinksConfig"
                   :key="link.name"
@@ -82,19 +82,23 @@
         <div class="flex flex-row gap-x-8 text-sm">
           <div class="flex items-center gap-x-2">
             <Icon class="text-base" name="heroicons:map-pin" />
-            <a
+            <NuxtLink
+              external
               class="underline underline-offset-2"
               href="https://maps.app.goo.gl/79iLatZsZKZZ1PyR7"
               target="_blank"
             >
               VIEW MAP
-            </a>
+            </NuxtLink>
           </div>
           <div class="flex items-center gap-x-2">
             <Icon class="text-base" name="heroicons:phone" />
-            <a class="underline underline-offset-2" href="tel:+919397119377">
+            <NuxtLink
+              class="underline underline-offset-2"
+              href="tel:+919397119377"
+            >
               +91-9397119377
-            </a>
+            </NuxtLink>
           </div>
         </div>
       </div>

@@ -1,3 +1,12 @@
+<template>
+  <component
+    :is="as"
+    :class="cn(buttonVariants({ variant, size }), $attrs.class ?? '')"
+  >
+    <slot />
+  </component>
+</template>
+
 <script setup lang="ts">
 import { cva } from 'class-variance-authority';
 
@@ -42,12 +51,3 @@ withDefaults(defineProps<Props>(), {
   variant: 'default',
 });
 </script>
-
-<template>
-  <component
-    :is="as"
-    :class="cn(buttonVariants({ variant, size }), $attrs.class ?? '')"
-  >
-    <slot />
-  </component>
-</template>

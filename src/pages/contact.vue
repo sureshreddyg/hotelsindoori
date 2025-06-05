@@ -15,7 +15,7 @@
 
           <div class="space-y-6">
             <div>
-              <div class="mb-1 flex items-center gap-1 text-sm font-semibold">
+              <div class="mb-1 flex items-center gap-1 text-sm font-medium">
                 <Icon name="heroicons:map-pin" />
                 <p>Address</p>
               </div>
@@ -25,43 +25,44 @@
               </p>
             </div>
             <div>
-              <div class="mb-1 flex items-center gap-1 text-sm font-semibold">
+              <div class="mb-1 flex items-center gap-1 text-sm font-medium">
                 <Icon name="heroicons:phone" />
                 <p>Phone</p>
               </div>
               <div
                 class="text-muted-foreground flex flex-col items-start gap-2 text-sm"
               >
-                <a
+                <NuxtLink
                   class="underline underline-offset-2"
                   href="tel:+919397119377"
                 >
                   +91 9397119377
-                </a>
-                <a
+                </NuxtLink>
+                <NuxtLink
                   class="underline underline-offset-2"
                   href="tel:+919397119322"
                 >
                   +91 9397119322
-                </a>
-                <a
+                </NuxtLink>
+                <NuxtLink
                   class="underline underline-offset-2"
                   href="tel:+919397119355"
                 >
                   +91 9397119355
-                </a>
+                </NuxtLink>
               </div>
             </div>
             <div>
-              <div class="mb-1 flex items-center gap-1 text-sm font-semibold">
+              <div class="mb-1 flex items-center gap-1 text-sm font-medium">
                 <Icon name="heroicons:envelope" />
                 <p>Email</p>
               </div>
-              <a
+              <NuxtLink
                 class="text-muted-foreground text-sm underline underline-offset-2"
                 href="mailto:hotelsindoorireservations@gmail.com"
-                >hotelsindoorireservations@gmail.com</a
               >
+                hotelsindoorireservations@gmail.com
+              </NuxtLink>
             </div>
           </div>
         </div>

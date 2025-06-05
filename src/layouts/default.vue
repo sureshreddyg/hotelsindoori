@@ -1,8 +1,9 @@
 <template>
   <div>
     <LayoutHeader />
-    <main>
+    <main class="min-h-dvh">
       <slot />
     </main>
+    <LayoutFooter />
   </div>
 </template>

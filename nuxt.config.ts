@@ -13,6 +13,9 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
   devtools: { enabled: true },
   fonts: {
+    defaults: {
+      weights: ['100 900'],
+    },
     provider: 'google',
   },
   image: { quality: 100 },
