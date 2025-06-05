@@ -1,24 +1,28 @@
 <template>
-  <div class="mx-auto h-full max-w-7xl">
-    <div v-for="section in galleryImages" :key="section.name">
-      <h2
-        class="text-muted-foreground py-4 text-center text-sm font-semibold uppercase"
-      >
-        {{ section.name }}
-      </h2>
-      <div class="gallery-section-grid mb-8 grid grid-cols-4 gap-2 px-4">
-        <div
-          v-for="(image, sectionIndex) in section.images"
-          :key="image.src"
-          :class="cn('h-full w-full overflow-hidden', image.gridAreaClass)"
+  <div class="px-6 py-12">
+    <div class="mx-auto h-full max-w-7xl">
+      <div v-for="section in galleryImages" :key="section.name">
+        <h2
+          class="text-muted-foreground py-4 text-center text-sm font-semibold uppercase"
         >
-          <NuxtImg
-            :alt="image.name"
-            :src="image.src"
-            class="h-full w-full object-cover"
-            :preload="sectionIndex === 0 ? true : false"
-            loading="lazy"
-          />
+          {{ section.name }}
+        </h2>
+        <div
+          class="gallery-section-grid mb-8 grid grid-cols-4 gap-2 last-of-type:mb-0"
+        >
+          <div
+            v-for="(image, sectionIndex) in section.images"
+            :key="image.src"
+            :class="cn('h-full w-full overflow-hidden', image.gridAreaClass)"
+          >
+            <NuxtImg
+              :alt="image.name"
+              :src="image.src"
+              class="h-full w-full object-cover"
+              :preload="sectionIndex === 0 ? true : false"
+              loading="lazy"
+            />
+          </div>
         </div>
       </div>
     </div>
