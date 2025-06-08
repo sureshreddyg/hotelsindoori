@@ -21,14 +21,14 @@ import { footerLinks } from '~/configs/footer-link';
           </p>
         </div>
         <div class="sm:order-3 sm:pt-6 lg:order-2">
-          <h2 class="mb-3 font-medium">Reservations</h2>
+          <h2 class="mb-3 font-medium">Socials</h2>
           <div class="flex flex-col items-start gap-y-4 text-sm">
             <FooterLink
-              v-for="foodOrderLinkInfo in footerLinks.reservationWebsites"
-              :key="foodOrderLinkInfo.name"
-              :link="foodOrderLinkInfo.link"
-              :logo="foodOrderLinkInfo.logo"
-              :name="foodOrderLinkInfo.name"
+              v-for="socialMediaWebsite in footerLinks.socialMediaWebsites"
+              :key="socialMediaWebsite.name"
+              :link="socialMediaWebsite.link"
+              :logo="socialMediaWebsite.logo"
+              :name="socialMediaWebsite.name"
             />
           </div>
         </div>
@@ -36,11 +36,11 @@ import { footerLinks } from '~/configs/footer-link';
           <h2 class="mb-3 font-medium">Order our Food</h2>
           <div class="flex flex-col items-start gap-y-4 text-sm">
             <FooterLink
-              v-for="foodOrderLinkInfo in footerLinks.foodOrderWebsites"
-              :key="foodOrderLinkInfo.name"
-              :link="foodOrderLinkInfo.link"
-              :logo="foodOrderLinkInfo.logo"
-              :name="foodOrderLinkInfo.name"
+              v-for="foodOrderWebsite in footerLinks.foodOrderWebsites"
+              :key="foodOrderWebsite.name"
+              :link="foodOrderWebsite.link"
+              :logo="foodOrderWebsite.logo"
+              :name="foodOrderWebsite.name"
             />
           </div>
         </div>
